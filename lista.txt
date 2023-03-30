@@ -1,0 +1,281 @@
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Filmes e Séries",Star Channel - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83539
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Filmes e Séries",Star Channel - FHD²
+http://clienteworld.com:8080/janainaeromulo/102030/83540
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Filmes e Séries",Star Channel - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83538
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Filmes e Séries",Star Channel - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83537
+#EXTINF:-1 tvg-logo="" group-title="Canais | 4k",Star Channel 4K H265
+http://clienteworld.com:8080/janainaeromulo/102030/99905
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Legendados",Star Channel LEG - HD
+http://clienteworld.com:8080/janainaeromulo/102030/73918
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IL0je" group-title="Canais | Legendados",Star Channel LEG - SD
+http://clienteworld.com:8080/janainaeromulo/102030/73917
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PbFdq" group-title="Canais | Filmes e Séries",Star Hits 1 - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83548
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PbFdq" group-title="Canais | Filmes e Séries",Star Hits 1 - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83547
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PbFdq" group-title="Canais | Filmes e Séries",Star Hits 1 - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83546
+#EXTINF:-1 tvg-logo="http://u1o.xyz/P3Gsr" group-title="Canais | Filmes e Séries",Star Hits 2 - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83551
+#EXTINF:-1 tvg-logo="http://u1o.xyz/P3Gsr" group-title="Canais | Filmes e Séries",Star Hits 2 - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83550
+#EXTINF:-1 tvg-logo="http://u1o.xyz/P3Gsr" group-title="Canais | Filmes e Séries",Star Hits 2 - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83549
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6cssh" group-title="Canais | Filmes e Séries",STAR LIFE -  H.265²
+http://clienteworld.com:8080/janainaeromulo/102030/83544
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6cssh" group-title="Canais | Filmes e Séries",STAR LIFE - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83545
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6cssh" group-title="Canais | Filmes e Séries",STAR LIFE - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83543
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6cssh" group-title="Canais | Filmes e Séries",STAR LIFE - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83541
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6cssh" group-title="Canais | Filmes e Séries",STAR LIFE - SD²
+http://clienteworld.com:8080/janainaeromulo/102030/83542
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zGRFy" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83585
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zGRFy" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL - FHD²
+http://clienteworld.com:8080/janainaeromulo/102030/83586
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zGRFy" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83584
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zGRFy" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83582
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zGRFy" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL - SD²
+http://clienteworld.com:8080/janainaeromulo/102030/83583
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4a/a0/7a/4aa07a23a4189071047d02d08679bd46.png" group-title="Canais | Desenhos 24 Horas",Super Choque 1T
+http://clienteworld.com:8080/janainaeromulo/102030/95789
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6vCbY" group-title="Canais | Desenhos 24 Horas",SUPER WINGS 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/56832
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SNzJF" group-title="Canais | Full HD",SYFY - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/28191
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SNzJF" group-title="Canais | Variedades e Musicais",SYFY - HD
+http://clienteworld.com:8080/janainaeromulo/102030/8177
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SNzJF" group-title="Canais | Variedades e Musicais",SYFY - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/12946
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vB3Xi" group-title="Canais | Variedades e Musicais",SYFY - SD
+http://clienteworld.com:8080/janainaeromulo/102030/8014
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SNzJF" group-title="Canais | Variedades e Musicais",SYFY - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/53020
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6dA4F" group-title="Canais | Full HD",TBS - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/28190
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I50Ty" group-title="Canais | Variedades e Musicais",TBS - HD
+http://clienteworld.com:8080/janainaeromulo/102030/8005
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6dA4F" group-title="Canais | Variedades e Musicais",TBS - HD
+http://clienteworld.com:8080/janainaeromulo/102030/53019
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zLywK" group-title="Canais | Variedades e Musicais",TBS - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/12945
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I50Ty" group-title="Canais | Variedades e Musicais",TBS - SD
+http://clienteworld.com:8080/janainaeromulo/102030/8006
+#EXTINF:-1 tvg-logo="" group-title="Canais | 4k",TC ACTION 4K H265
+http://clienteworld.com:8080/janainaeromulo/102030/99908
+#EXTINF:-1 tvg-logo="" group-title="Canais | 4k",TC PIPOCA 4K H265
+http://clienteworld.com:8080/janainaeromulo/102030/99909
+#EXTINF:-1 tvg-logo="" group-title="Canais | 4k",TC PREMIUM 4K H265
+http://clienteworld.com:8080/janainaeromulo/102030/99910
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IYvji" group-title="Canais | Filmes e Séries",TCM - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83594
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IYvji" group-title="Canais | Filmes e Séries",TCM - SD²
+http://clienteworld.com:8080/janainaeromulo/102030/83595
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Telecine ",TELECINE ACTION - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82682
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Telecine ",TELECINE ACTION - FHD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82683
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Telecine ",TELECINE ACTION - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82680
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Telecine ",TELECINE ACTION - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82681
+#EXTINF:-1 tvg-logo="http://u1o.xyz/jTYe" group-title="Canais | Telecine ",TELECINE ACTION - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82678
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Telecine ",TELECINE ACTION - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82679
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Legendados",TELECINE ACTION HD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73910
+#EXTINF:-1 tvg-logo="http://u1o.xyz/gFfw" group-title="Canais | Legendados",TELECINE ACTION SD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73909
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IOLCf" group-title="Canais | Telecine ",TELECINE CULT - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82687
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IOLCf" group-title="Canais | Telecine ",TELECINE CULT - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82686
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IOLCf" group-title="Canais | Telecine ",TELECINE CULT - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82684
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IOLCf" group-title="Canais | Telecine ",TELECINE CULT - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82685
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Telecine ",TELECINE FUN - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82692
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0kqj2r1ptjnpexf/TC_FUN.png" group-title="Canais | Telecine ",TELECINE FUN - FHD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82693
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Telecine ",TELECINE FUN - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82690
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Telecine ",TELECINE FUN - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82691
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Telecine ",TELECINE FUN - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82688
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Telecine ",TELECINE FUN - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82689
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Legendados",TELECINE FUN HD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73908
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZ6" group-title="Canais | Legendados",TELECINE FUN SD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73907
+#EXTINF:-1 tvg-logo="" group-title="Canais | Telecine ",TELECINE PIPOCA - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82697
+#EXTINF:-1 tvg-logo="http://u1o.xyz/v1VOC" group-title="Canais | Telecine ",TELECINE PIPOCA - FHD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82698
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6lxja" group-title="Canais | Telecine ",TELECINE PIPOCA - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82695
+#EXTINF:-1 tvg-logo="http://u1o.xyz/v1VOC" group-title="Canais | Telecine ",TELECINE PIPOCA - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82696
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6lxja" group-title="Canais | Telecine ",TELECINE PIPOCA - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82694
+#EXTINF:-1 tvg-logo="http://u1o.xyz/v1VOC" group-title="Canais | Legendados",TELECINE PIPOCA HD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73906
+#EXTINF:-1 tvg-logo="http://u1o.xyz/v1VOC" group-title="Canais | Legendados",TELECINE PIPOCA SD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73905
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I1FLs" group-title="Canais | Telecine ",TELECINE PREMIUM - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82702
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zZDat" group-title="Canais | Telecine ",Telecine Premium - FHD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82703
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I1FLs" group-title="Canais | Telecine ",TELECINE PREMIUM - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82700
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zZDat" group-title="Canais | Telecine ",TELECINE PREMIUM - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82701
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I1FLs" group-title="Canais | Telecine ",TELECINE PREMIUM - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82699
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I1FLs" group-title="Canais | Legendados",TELECINE PREMIUM HD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73904
+#EXTINF:-1 tvg-logo="http://u1o.xyz/I1FLs" group-title="Canais | Legendados",TELECINE PREMIUM SD LEG*
+http://clienteworld.com:8080/janainaeromulo/102030/73903
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Telecine ",TELECINE TOUCH - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82708
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Telecine ",TELECINE TOUCH - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82706
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Telecine ",TELECINE TOUCH - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82707
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PoTZz" group-title="Canais | Telecine ",TELECINE TOUCH - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82704
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Telecine ",TELECINE TOUCH - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/82705
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Legendados",TELECINE TOUCH HD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73902
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6ZsI5" group-title="Canais | Legendados",TELECINE TOUCH SD LEG
+http://clienteworld.com:8080/janainaeromulo/102030/73901
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6SoOZ" group-title="Canais | Abertos",TERRA VIVA - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83672
+#EXTINF:-1 tvg-logo="http://u1o.xyz/b98c" group-title="Canais | Séries 24 Horas",THE OA 1 A 2 TEMP 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/53247
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IOa0R" group-title="Canais | Séries 24 Horas",THE TICK  1 A 2 TEMP  24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/53248
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vfz8w" group-title="Canais | Séries 24 Horas",THE UMBRELLA ACADEMY 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/53249
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vRQmQ" group-title="Canais | Séries 24 Horas",TIMELESS 1 A 2 TEMP 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/53250
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vJqXQ" group-title="Canais | Desenhos 24 Horas",TIMÃO E PUMBA 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/56833
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SHGLL" group-title="Canais | Documentários",TLC - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/82958
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SHGLL" group-title="Canais | Documentários",TLC - HD
+http://clienteworld.com:8080/janainaeromulo/102030/82956
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SHGLL" group-title="Canais | Documentários",TLC - HD²
+http://clienteworld.com:8080/janainaeromulo/102030/82957
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SHGLL" group-title="Canais | Documentários",TLC - SD
+http://clienteworld.com:8080/janainaeromulo/102030/82955
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83589
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - FHD²
+http://clienteworld.com:8080/janainaeromulo/102030/88861
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83588
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - HD ²
+http://clienteworld.com:8080/janainaeromulo/102030/88880
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83587
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Filmes e Séries",TNT - SD ²
+http://clienteworld.com:8080/janainaeromulo/102030/88879
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Legendados",TNT LEGENDADO - HD
+http://clienteworld.com:8080/janainaeromulo/102030/73900
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zIU1V" group-title="Canais | Legendados",TNT LEGENDADO - SD
+http://clienteworld.com:8080/janainaeromulo/102030/73899
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | 4k",TNT SERIES - 4K²
+http://clienteworld.com:8080/janainaeromulo/102030/72582
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Filmes e Séries",TNT SERIES - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/83593
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Filmes e Séries",TNT SERIES - HD
+http://clienteworld.com:8080/janainaeromulo/102030/83591
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Filmes e Séries",TNT SERIES - HD²
+http://clienteworld.com:8080/janainaeromulo/102030/83592
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Filmes e Séries",TNT SERIES - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83590
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Legendados",TNT SERIES LEGENDADO  -SD
+http://clienteworld.com:8080/janainaeromulo/102030/73889
+#EXTINF:-1 tvg-logo="http://u1o.xyz/z9f3S" group-title="Canais | Legendados",TNT SERIES LEGENDADO - HD
+http://clienteworld.com:8080/janainaeromulo/102030/73890
+#EXTINF:-1 tvg-logo="http://u1o.xyz/ScufF" group-title="Canais | Programas de Tv 24 Horas",TODO MUNDO ODEIA O CRIS TEMP 1 A 2 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/52381
+#EXTINF:-1 tvg-logo="http://u1o.xyz/ScufF" group-title="Canais | Programas de Tv 24 Horas",TODO MUNDO ODEIA O CRIS TEMP 3 A 4 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/52382
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vBM1O" group-title="Canais | Infantil",TOONCAST - SD
+http://clienteworld.com:8080/janainaeromulo/102030/83484
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zLZ8i" group-title="Canais | Desenhos 24 Horas",TRANSFORMERS ANIMATED 24Hs
+http://clienteworld.com:8080/janainaeromulo/102030/57237
+#EXTINF:-1 tvg-logo="" group-title="Canais | Full HD",TRUTV - FHD
+http://clienteworld.com:8080/janainaeromulo/102030/28185
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sbabd" group-title="Canais | Variedades e Musicais",TRUTV - HD
+http://clienteworld.com:8080/janainaeromulo/102030/7983
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sbabd" group-title="Canais | Variedades e Musicais",TRUTV - SD
+http://clienteworld.com:8080/janainaeromulo/102030/7984
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="ABERTOS", SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="ABERTOS", SBT TV Guajará (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8?zugphi
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="ABERTOS", SBT TV Paraense (PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8?zugphi
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR FHD
+http://trenduhd.xyz:80/2799903294/3640187040/189018
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/189017
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR HD
+http://trenduhd.xyz:80/2799903294/3640187040/189019
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR HD [ALT]" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295672
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR SD
+http://trenduhd.xyz:80/2799903294/3640187040/189021
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON FHD
+http://trenduhd.xyz:80/2799903294/3640187040/189024
+#EXTINF: -1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/189023
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON HD
+http://trenduhd.xyz:80/2799903294/3640187040/189025
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON HD [ALT]" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295673
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON SD
+http://trenduhd.xyz:80/2799903294/3640187040/189027
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="PREMIUM", PARAMOUNT FHD
+http://trenduhd.xyz:80/2799903294/3640187040/188539
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="PREMIUM", PARAMOUNT FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/188538
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="PREMIUM", PARAMOUNT HD
+http://trenduhd.xyz:80/2799903294/3640187040/188540
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="PREMIUM", PARAMOUNT HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295623
+#EXTINF: -1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="PREMIUM", PARAMOUNT SD
+http://trenduhd.xyz:80/2799903294/3640187040/188542
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="PREMIUM", STUDIO UNIVERSAL FHD
+http://trenduhd.xyz:80/2799903294/3640187040/188551
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="PREMIUM", STUDIO UNIVERSAL FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/188550
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="PREMIUM", STUDIO UNIVERSAL HD
+http://trenduhd.xyz:80/2799903294/3640187040/188552
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD [ALT]" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="PREMIUM", STUDIO UNIVERSAL HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295625
+#EXTINF: -1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/STUDIO.png" group-title="PREMIUM", STUDIO UNIVERSAL SD
+http://trenduhd.xyz:80/2799903294/3640187040/188554
+

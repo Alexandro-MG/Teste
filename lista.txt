@@ -1,4 +1,4 @@
-CANAIS ABERTO
+CANAIS ABERTOS
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?zugphi
@@ -25,6 +25,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8?zugphi
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTOS", Band - RBA TV (PA)
 https://streaming.gruporba.com.br/rba.m3u8?zugphi
 
+NOVELAS
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS", CANELA TELENOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS", CANELA TELENOVELAS
@@ -42,6 +44,16 @@ http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?zugphi
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="FILMES", CANELA.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://www.pngkey.com/png/detail/675-6757053_cinema-kids.png",CINE KIDS
+http://cms.021stream.xyz:80/987653241/14552234/456925
+#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE COMÉDIA
+http://cms.021stream.xyz:80/987653241/14552234/456927
+#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE DRAMA
+http://cms.021stream.xyz:80/987653241/14552234/456928
+#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE AÇÃO
+http://cms.021stream.xyz:80/987653241/14552234/456929
+#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE TERROR
+http://cms.021stream.xyz:80/987653241/14552234/456930
 
 INFANTIL
 
@@ -51,27 +63,30 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="INFANTIL", Loading
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/locomotion.png" group-title="INFANTIL", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Z65EEaH.png" group-title="INFANTIL", Urban Kids
-https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="INFANTIL", YEEAAH TV
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?zugphi
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://i.pinimg.com/564x/5c/e0/27/5ce027409c0ddb07dcdc6eb7e60f6130.jpg",24h JOÃOZINHO
+http://cms.021stream.xyz:80/987653241/14552234/456919
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Boruto-Download-Free-PNG.png",24h BORUTO
+http://cms.021stream.xyz:80/987653241/14552234/456920
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mghmdyXQWJKETQEXx7er0PwVj5k.jpg",24h DIGIMON SAVERS
+http://cms.021stream.xyz:80/987653241/14552234/456921
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYoiupxiXVJBT8Bz0hCBwi1FLdL.jpg",24h DIGIMON ADVENTURE
+http://cms.021stream.xyz:80/987653241/14552234/456922
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg",24h Dragon Ball GT
+http://cms.021stream.xyz:80/987653241/14552234/456923
+#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jROnM4gMSJlsfZpMighHuWeZt42.jpg",24h LadyBug
+http://cms.021stream.xyz:80/987653241/14552234/456924
 
+SÉRIES
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="FILMES", TV Séries
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", TV SERIES 1 AS PANTERAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", TV SERIES 2 MULHER BIONICA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", MULHER BIONICA
 https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", TV SERIES 3 STAR TREK
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", STAR TREK
 https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", TV SERIES 4 CHIPS
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", CHIPS
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
 
 

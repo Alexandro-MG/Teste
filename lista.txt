@@ -44,6 +44,9 @@ http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?zugphi
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="FILMES", CANELA.TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Portuguese",DEFAULT=NO,FORCED=NO,URI="subtitle/pt/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-838102ae-1f9b-40af-bdde-defb43f4ff2b&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel",LANGUAGE="pt"
+
+
 
 INFANTIL
 
@@ -55,6 +58,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?zugphi
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?zugphi
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="INFANTIL",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 SÉRIES
 
@@ -66,3 +71,11 @@ https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?zugphi
 https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", CHIPS
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
+
+
+teste
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="testando", EV01.TV
+https://slmaxed.com/v/WwM7lMB7MOPnZKbo
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="testando", EV01.TV
+https://ev01.to/watch-movie/watch-avatar-the-way-of-water-online-79936.9224434

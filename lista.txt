@@ -46,14 +46,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-48
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://www.pngkey.com/png/detail/675-6757053_cinema-kids.png",CINE KIDS
 http://cms.021stream.xyz:80/987653241/14552234/456925
-#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE COMÉDIA
-http://cms.021stream.xyz:80/987653241/14552234/456927
-#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE DRAMA
-http://cms.021stream.xyz:80/987653241/14552234/456928
-#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE AÇÃO
-http://cms.021stream.xyz:80/987653241/14552234/456929
-#EXTINF:-1 group-title="CANAIS | CINEMA EM CASA" tvg-logo="https://i.pinimg.com/originals/d5/b2/c8/d5b2c8ebfc18c423426dd3e45e7e31a3.png",CINE TERROR
-http://cms.021stream.xyz:80/987653241/14552234/456930
+
 
 INFANTIL
 
@@ -65,18 +58,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?zugphi
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIL", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?zugphi
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://i.pinimg.com/564x/5c/e0/27/5ce027409c0ddb07dcdc6eb7e60f6130.jpg",24h JOÃOZINHO
-http://cms.021stream.xyz:80/987653241/14552234/456919
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://www.pngplay.com/wp-content/uploads/12/Boruto-Download-Free-PNG.png",24h BORUTO
-http://cms.021stream.xyz:80/987653241/14552234/456920
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mghmdyXQWJKETQEXx7er0PwVj5k.jpg",24h DIGIMON SAVERS
-http://cms.021stream.xyz:80/987653241/14552234/456921
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vYoiupxiXVJBT8Bz0hCBwi1FLdL.jpg",24h DIGIMON ADVENTURE
-http://cms.021stream.xyz:80/987653241/14552234/456922
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kmO4AHj1xx8wiaBMgwGjXhOQfNt.jpg",24h Dragon Ball GT
-http://cms.021stream.xyz:80/987653241/14552234/456923
-#EXTINF:-1 group-title="CANAIS | DESENHOS 24h" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jROnM4gMSJlsfZpMighHuWeZt42.jpg",24h LadyBug
-http://cms.021stream.xyz:80/987653241/14552234/456924
+
 
 SÉRIES
 
@@ -88,5 +70,39 @@ https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?zugphi
 https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", CHIPS
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
+
+
+# 📺 TV Filmes
+
+
+#EXTINF:-1 group-title="Filmes",AXN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10130?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Filmes",Hollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://red.ipfox.org:8080/Karam2022/Karam2023/49337?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Filmes",Cinemundo
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://red.ipfox.org:8080/Karam2022/Karam2023/49338?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Filmes",DiscoveryChannel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://red.ipfox.org:8080/Karam2022/Karam2023/49323?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Filmes",FOX Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://red.ipfox.org:8080/Karam2022/Karam2023/49336?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Filmes",Nickelodeon
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hl
+http://red.ipfox.org:8080/Karam2022/Karam2023/49295?checkedby:iptvcat.com
 
 

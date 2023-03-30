@@ -72,37 +72,264 @@ https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
 
 
-# 📺 TV Filmes
+#EXTINF:-1,|PO| AXN HD
+http://red.ipfox.org:8080/1234/12345678/2726
+#EXTINF:-1,|PO| AXN Black
+http://red.ipfox.org:8080/1234/12345678/2727
+#EXTINF:-1,|PO| AXN White
+http://red.ipfox.org:8080/1234/12345678/2725
+#EXTINF:-1,|PO| AMC  HD
+http://red.ipfox.org:8080/1234/12345678/2728
+#EXTINF:-1,|PO| SYFY HD
+http://red.ipfox.org:8080/1234/12345678/2667
+#EXTINF:-1,|PO| RTP 1
+http://red.ipfox.org:8080/1234/12345678/2685
+#EXTINF:-1,|PO| RTP 2
+http://red.ipfox.org:8080/1234/12345678/2684
+#EXTINF:-1,|PO| RTP 3
+http://red.ipfox.org:8080/1234/12345678/2683
+#EXTINF:-1,|PO| TVI 24
+http://red.ipfox.org:8080/1234/12345678/2663
+#EXTINF:-1,|PO| RTP Africa
+http://red.ipfox.org:8080/1234/12345678/2681
+#EXTINF:-1,|PO| RTP Acores
+http://red.ipfox.org:8080/1234/12345678/2682
+#EXTINF:-1,|PO| RTP Madeira
+http://red.ipfox.org:8080/1234/12345678/2680
+#EXTINF:-1,|PO| RTP Memoria
+http://red.ipfox.org:8080/1234/12345678/2679
+#EXTINF:-1,|PO| TV Globo HD
+http://red.ipfox.org:8080/1234/12345678/2654
+#EXTINF:-1,|PO| Fox HD
+http://red.ipfox.org:8080/1234/12345678/2699
+#EXTINF:-1,|PO| Fox Movies
+http://red.ipfox.org:8080/1234/12345678/2700
+#EXTINF:-1,|PO| Fox Life
+http://red.ipfox.org:8080/1234/12345678/2701
+#EXTINF:-1,|PO| Fox Crime
+http://red.ipfox.org:8080/1234/12345678/2702
+#EXTINF:-1,|PO| Fox Comedy
+http://red.ipfox.org:8080/1234/12345678/2703
+#EXTINF:-1,|PO| Cine Mundo
+http://red.ipfox.org:8080/1234/12345678/2730
+#EXTINF:-1,|PO| Nickelodeon HD
+http://red.ipfox.org:8080/1234/12345678/2686
+#EXTINF:-1,|BR| Nick Jr. HD
+http://red.ipfox.org:8080/1234/12345678/17362
+#EXTINF:-1,|BR| Nick Jr. HEVC
+http://red.ipfox.org:8080/1234/12345678/17363
+#EXTINF:-1,|BR| Nickelodeon HD
+http://red.ipfox.org:8080/1234/12345678/17364
+#EXTINF:-1,|BR| Discovery Kids HEVC
+http://red.ipfox.org:8080/1234/12345678/17365
+#EXTINF:-1,|BR| Nickelodeon HEVC
+http://red.ipfox.org:8080/1234/12345678/17366
+#EXTINF:-1,|BR| Tooncast HD
+http://red.ipfox.org:8080/1234/12345678/17367
+#EXTINF:-1,|BR| Band News HD
+http://red.ipfox.org:8080/1234/12345678/17368
+#EXTINF:-1,|BR| Band News HEVC
+http://red.ipfox.org:8080/1234/12345678/17369
+#EXTINF:-1,|BR| LIFETIME SD
+http://red.ipfox.org:8080/1234/12345678/17370
+#EXTINF:-1,|BR| LIFETIME HD
+http://red.ipfox.org:8080/1234/12345678/17371
+#EXTINF:-1,|BR| MAX HD
+http://red.ipfox.org:8080/1234/12345678/17372
+#EXTINF:-1,|BR| MAX PRIME SD
+http://red.ipfox.org:8080/1234/12345678/17373
+#EXTINF:-1,|BR| MAX PRIME HD
+http://red.ipfox.org:8080/1234/12345678/17374
+#EXTINF:-1,|BR| MAX UP SD
+http://red.ipfox.org:8080/1234/12345678/17375
+#EXTINF:-1,|BR| MAX UP HD
+http://red.ipfox.org:8080/1234/12345678/17376
+#EXTINF:-1,|BR| MEGAPIX SD
+http://red.ipfox.org:8080/1234/12345678/17377
+#EXTINF:-1,|BR| MEGAPIX HD
+http://red.ipfox.org:8080/1234/12345678/17378
+#EXTINF:-1,|BR| MAX SD
+http://red.ipfox.org:8080/1234/12345678/17379
+#EXTINF:-1,|BR| PARAMOUNT SD
+http://red.ipfox.org:8080/1234/12345678/17380
+#EXTINF:-1,|BR| Prime Box Brasil HD
+http://red.ipfox.org:8080/1234/12345678/17381
+#EXTINF:-1,|BR| SPACE SD
+http://red.ipfox.org:8080/1234/12345678/17382
+#EXTINF:-1,|BR| SPACE HD
+http://red.ipfox.org:8080/1234/12345678/17383
+#EXTINF:-1,|BR| STUDIO UNIVERSAL SD
+http://red.ipfox.org:8080/1234/12345678/17384
+#EXTINF:-1,|BR| STUDIO UNIVERSAL HD
+http://red.ipfox.org:8080/1234/12345678/17385
+#EXTINF:-1,|BR| SYFY HD
+http://red.ipfox.org:8080/1234/12345678/17386
+#EXTINF:-1,|BR| TBS SD
+http://red.ipfox.org:8080/1234/12345678/17387
+#EXTINF:-1,|BR| TBS HD
+http://red.ipfox.org:8080/1234/12345678/17388
+#EXTINF:-1,|BR| TCM HD
+http://red.ipfox.org:8080/1234/12345678/17389
+#EXTINF:-1,|BR| TELECINE ACTION SD
+http://red.ipfox.org:8080/1234/12345678/17390
+#EXTINF:-1,|BR| TELECINE ACTION HD
+http://red.ipfox.org:8080/1234/12345678/17391
+#EXTINF:-1,|BR| TELECINE CULT SD
+http://red.ipfox.org:8080/1234/12345678/17392
+#EXTINF:-1,|BR| TELECINE CULT HD
+http://red.ipfox.org:8080/1234/12345678/17393
+#EXTINF:-1,|BR| TELECINE FUN SD
+http://red.ipfox.org:8080/1234/12345678/17394
+#EXTINF:-1,|BR| TELECINE FUN HD
+http://red.ipfox.org:8080/1234/12345678/17395
+#EXTINF:-1,|BR| SyFy HEVC
+http://red.ipfox.org:8080/1234/12345678/17396
+#EXTINF:-1,|BR| TELECINE PIPOCA SD
+http://red.ipfox.org:8080/1234/12345678/17397
+#EXTINF:-1,|BR| TELECINE PIPOCA HD
+http://red.ipfox.org:8080/1234/12345678/17398
+#EXTINF:-1,|BR| TELECINE PREMIUM SD
+http://red.ipfox.org:8080/1234/12345678/17399
+#EXTINF:-1,|BR| TELECINE PREMIUM HD
+http://red.ipfox.org:8080/1234/12345678/17400
+#EXTINF:-1,|BR| TELECINE TOUCH SD
+http://red.ipfox.org:8080/1234/12345678/17401
+#EXTINF:-1,|BR| TELECINE TOUCH HD
+http://red.ipfox.org:8080/1234/12345678/17402
+#EXTINF:-1,|BR| TLC SD
+http://red.ipfox.org:8080/1234/12345678/17403
+#EXTINF:-1,|BR| TLC HD
+http://red.ipfox.org:8080/1234/12345678/17404
+#EXTINF:-1,|BR| TNT SD
+http://red.ipfox.org:8080/1234/12345678/17405
+#EXTINF:-1,|BR| TNT HD
+http://red.ipfox.org:8080/1234/12345678/17406
+#EXTINF:-1,|BR| TNT SERIES SD
+http://red.ipfox.org:8080/1234/12345678/17407
+#EXTINF:-1,|BR| TNT SERIES HD
+http://red.ipfox.org:8080/1234/12345678/17408
+#EXTINF:-1,|BR| STUDIO UNIVERSAL SD
+http://red.ipfox.org:8080/1234/12345678/17409
+#EXTINF:-1,|BR| STUDIO UNIVERSAL HD
+http://red.ipfox.org:8080/1234/12345678/17410
+#EXTINF:-1,|BR| WARNER CHANNEL SD
+http://red.ipfox.org:8080/1234/12345678/17411
+#EXTINF:-1,|BR| WARNER CHANNEL HD
+http://red.ipfox.org:8080/1234/12345678/17412
+#EXTINF:-1,|BR| ANIMAL PLANET SD
+http://red.ipfox.org:8080/1234/12345678/17413
+#EXTINF:-1,|BR| ANIMAL PLANET HD
+http://red.ipfox.org:8080/1234/12345678/17414
+#EXTINF:-1,|BR| GLOBO MINAS SD
+http://red.ipfox.org:8080/1234/12345678/17415
+#EXTINF:-1,|BR| GLOBO MANAUS HD
+http://red.ipfox.org:8080/1234/12345678/17416
+#EXTINF:-1,|BR| Discovery Channel HD
+http://red.ipfox.org:8080/1234/12345678/17417
+#EXTINF:-1,|BR| Discovery Channel HEVC
+http://red.ipfox.org:8080/1234/12345678/17418
+#EXTINF:-1,|BR| Discovery Civilization HD
+http://red.ipfox.org:8080/1234/12345678/17419
+#EXTINF:-1,|BR| Discovery Civilization HEVC
+http://red.ipfox.org:8080/1234/12345678/17420
+#EXTINF:-1,|BR| Discovery Science HD
+http://red.ipfox.org:8080/1234/12345678/17421
+#EXTINF:-1,|BR| Discovery Science HEVC
+http://red.ipfox.org:8080/1234/12345678/17422
+#EXTINF:-1,|BR| Discovery Theater HD
+http://red.ipfox.org:8080/1234/12345678/17423
+#EXTINF:-1,|BR| Discovery Theater HEVC
+http://red.ipfox.org:8080/1234/12345678/17424
+#EXTINF:-1,|BR| Discovery Turbo HD
+http://red.ipfox.org:8080/1234/12345678/17425
+#EXTINF:-1,|BR| Discovery Turbo HEVC
+http://red.ipfox.org:8080/1234/12345678/17426
+#EXTINF:-1,|BR| Discovery World HD
+http://red.ipfox.org:8080/1234/12345678/17427
+#EXTINF:-1,|BR| Discovery World HEVC
+http://red.ipfox.org:8080/1234/12345678/17428
 
+#EXTINF:-1,|BR| BAND SD
+http://red.ipfox.org:8080/1234/12345678/17469
+#EXTINF:-1,|BR| BAND HD
+http://red.ipfox.org:8080/1234/12345678/17470
+#EXTINF:-1,|BR| GLOBO GOIANIA SD
+http://red.ipfox.org:8080/1234/12345678/17472
+#EXTINF:-1,|BR| GLOBO RJ SD
+http://red.ipfox.org:8080/1234/12345678/17473
+#EXTINF:-1,|BR| GLOBO RJ HD
+http://red.ipfox.org:8080/1234/12345678/17474
+#EXTINF:-1,|BR| GLOBO SP SD
+http://red.ipfox.org:8080/1234/12345678/17475
+#EXTINF:-1,|BR| GLOBO SP HD
+http://red.ipfox.org:8080/1234/12345678/17476
+#EXTINF:-1,|BR| RECORD HD
+http://red.ipfox.org:8080/1234/12345678/17477
+#EXTINF:-1,|BR| RECORD TV SD
+http://red.ipfox.org:8080/1234/12345678/17478
+#EXTINF:-1,|BR| SBT SD
+http://red.ipfox.org:8080/1234/12345678/17481
+#EXTINF:-1,|BR| SBT HD
+http://red.ipfox.org:8080/1234/12345678/17482
 
-#EXTINF:-1 group-title="Filmes",AXN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10130?checkedby:iptvcat.com
+#EXTINF:-1,|BR| FOOD NETWORK SD
+http://red.ipfox.org:8080/1234/12345678/17494
+#EXTINF:-1,|BR| FOOD NETWORK HD
+http://red.ipfox.org:8080/1234/12345678/17495
 
-#EXTINF:-1 group-title="Filmes",Hollywood
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://red.ipfox.org:8080/Karam2022/Karam2023/49337?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Filmes",Cinemundo
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://red.ipfox.org:8080/Karam2022/Karam2023/49338?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Filmes",DiscoveryChannel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://red.ipfox.org:8080/Karam2022/Karam2023/49323?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Filmes",FOX Movies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://red.ipfox.org:8080/Karam2022/Karam2023/49336?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Filmes",Nickelodeon
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hl
-http://red.ipfox.org:8080/Karam2022/Karam2023/49295?checkedby:iptvcat.com
-
-
+#EXTINF:-1,|BR| A&E SD
+http://red.ipfox.org:8080/1234/12345678/17503
+#EXTINF:-1,|BR| A&E HD
+http://red.ipfox.org:8080/1234/12345678/17504
+#EXTINF:-1,|BR| AMC SD
+http://red.ipfox.org:8080/1234/12345678/17505
+#EXTINF:-1,|BR| AMC HD
+http://red.ipfox.org:8080/1234/12345678/17506
+#EXTINF:-1,|BR| AXN SD
+http://red.ipfox.org:8080/1234/12345678/17507
+#EXTINF:-1,|BR| AXN HD
+http://red.ipfox.org:8080/1234/12345678/17508
+#EXTINF:-1,|BR| CINEMAX SD
+http://red.ipfox.org:8080/1234/12345678/17513
+#EXTINF:-1,|BR| CINEMAX HD
+http://red.ipfox.org:8080/1234/12345678/17514
+#EXTINF:-1,|BR| Fox HEVC
+http://red.ipfox.org:8080/1234/12345678/17515
+#EXTINF:-1,|BR| FOX LIFE SD
+http://red.ipfox.org:8080/1234/12345678/17516
+#EXTINF:-1,|BR| FOX LIFE HD
+http://red.ipfox.org:8080/1234/12345678/17517
+#EXTINF:-1,|BR| FOX PREMIUM 1 HD
+http://red.ipfox.org:8080/1234/12345678/17518
+#EXTINF:-1,|BR| FOX PREMIUM 2 HD
+http://red.ipfox.org:8080/1234/12345678/17519
+#EXTINF:-1,|BR| FOX PREMIUM 1  H265
+http://red.ipfox.org:8080/1234/12345678/17520
+#EXTINF:-1,|BR| FOX PREMIUM 2  H265
+http://red.ipfox.org:8080/1234/12345678/17521
+#EXTINF:-1,|BR| FX SD
+http://red.ipfox.org:8080/1234/12345678/17522
+#EXTINF:-1,|BR| FX HD
+http://red.ipfox.org:8080/1234/12345678/17523
+#EXTINF:-1,|BR| HBO SD
+http://red.ipfox.org:8080/1234/12345678/17524
+#EXTINF:-1,|BR| HBO HD
+http://red.ipfox.org:8080/1234/12345678/17525
+#EXTINF:-1,|BR| HBO 2 SD
+http://red.ipfox.org:8080/1234/12345678/17526
+#EXTINF:-1,|BR| HBO 2 HD
+http://red.ipfox.org:8080/1234/12345678/17527
+#EXTINF:-1,|BR| HBO FAMILY SD
+http://red.ipfox.org:8080/1234/12345678/17528
+#EXTINF:-1,|BR| HBO FAMILY HD
+http://red.ipfox.org:8080/1234/12345678/17529
+#EXTINF:-1,|BR| Fox HD
+http://red.ipfox.org:8080/1234/12345678/17530
+#EXTINF:-1,|BR| HBO PLUS SD
+http://red.ipfox.org:8080/1234/12345678/17531
+#EXTINF:-1,|BR| HBO PLUS HD
+http://red.ipfox.org:8080/1234/12345678/17532
+#EXTINF:-1,|BR| HBO SIGNATURE SD
+http://red.ipfox.org:8080/1234/12345678/17533
+#EXTINF:-1,|BR| HBO SIGNATURE HD
+http://red.ipfox.org:8080/1234/12345678/17534

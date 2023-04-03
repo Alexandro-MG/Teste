@@ -104,6 +104,63 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",MyTime movie network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpPZJWy.png" group-title="CANAIS EM TESTE",Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="CANAIS EM TESTE",MyTime Movie Network | Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="CANAIS EM TESTE",Revry Brasil
+http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS EM TESTE",RunTime | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS EM TESTE",RunTime Ação | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="CANAIS EM TESTE",RunTime Comédia | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QapVmCb.png" group-title="CANAIS EM TESTE",Soul Cine Clube | Brasil 
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="CANAIS EM TESTE",Fox
+http://165.227.223.203/loadbalance/aovivonatv7/tracks-v1a1/index.m3u8?pxAuth=E5hIBBbP71EMEt5TKQF4vRHwVRaTqIsB
+#EXTINF:0 tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/3552636/731px-FX-logo.svg_.png?1361471646" group-title="CANAIS EM TESTE",FX
+http://138.197.137.47/loadbalance/fxhd/chunks.m3u8?pxAuth=Ac5GWNZJj1PSGN8LBF88MQwoJpw843mj
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/500px-Max_Prime_2012_logo.svg.png" group-title="CANAIS EM TESTE",maxprime
+http://192.241.207.135/loadbalance/maxprime/chunks.m3u8?pxAuth=BmSihYgzp5fXg3vSdUDlJ2dj1dLfTKUb
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CANAIS EM TESTE",cinemax-hd
+http://192.241.232.122/loadbalance/cinemax-hd/chunks.m3u8?pxAuth=dT4r9RAL47QoN2rgtCgTEIApsL7cT5eB
+#EXTINF:0 tvg-logo="https://www.neotv.com.br/images/canais/maxup.png" group-title="CANAIS EM TESTE",Max UP 
+http://165.227.100.253/maxuphd/tracks-v1a1/index.m3u8?pxAuth=cxsM06mMtSOpLPdPfIKYi29zCS4qiZrG
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CANAIS EM TESTE",Max
+http://192.241.232.78/loadbalance/maxhd/chunks.m3u8?pxAuth=WvPaZN2oM42bEieJCE2gsaA6UasKIrfE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCWohbLvEcyGa8pRTHi-Mt45rrOazy4RG9Gatfm7Ugah4-JwbQ" group-title="CANAIS EM TESTE",HBO
+http://159.203.26.32/loadbalance/hbohd/chunks.m3u8?pxAuth=Mg2qgMDpsj6X0atAHWmDYHZh6Yvv86iN
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/500px-HBO2_logo.png" group-title="CANAIS EM TESTE",HBO2
+http://192.241.231.235/loadbalance/hbo2hd/chunks.m3u8?pxAuth=zr6mMqBw8r8Lul5AkRpVzGqVNzWItMSS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS EM TESTE",HBOPLUS
+http://138.197.137.189/loadbalance/hboplus/chunks.m3u8?pxAuth=MI6PFAIin8v0lcJADhfjcSqzDQi5Whyo
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS EM TESTE",HBO family
+http://192.241.232.78/loadbalance/hbofamily/chunks.m3u8?pxAuth=6cTjJvxllJqFSCbk1kgEVL8nnpJtXzH2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/640px-HBO_Signature.svg.png" group-title="CANAIS EM TESTE",HBO Signature
+http://192.241.232.122/loadbalance/28347661835572978857/chunks.m3u8?pxAuth=YsW4LqVjuIvlP3jZjTfHMobEfc7mhYV6
+#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS EM TESTE",Telecine Pipoca
+http://192.241.207.135/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=YCivDw6E5nbAEc1DWb3UT04aGcNm3pIh
+#EXTINF:0 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/FUN_fundo_claro.jpg" group-title="CANAIS EM TESTE",Telecine Fun
+http://138.197.137.47/loadbalance/telecinefun/chunks.m3u8?pxAuth=rn5pk8Zl8f0X12G2WagaqjkJbWiijUKC
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fL4ZS0vnZko/TyMVGqz8EPI/AAAAAAAAAZE/vHKTx6vhbrI/s1600/TC+PREMIUM.jpg" group-title="CANAIS EM TESTE",telecine premium
+http://192.241.207.135/loadbalance/telecinepremium/chunks.m3u8?pxAuth=NDRovo4DiatSRYcUyhXCrF13YvnTygFY
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/2/24/Telecineaction.jpg/revision/latest?cb=20140513153257&path-prefix=pt-br" group-title="CANAIS EM TESTE",Telecine Action
+http://138.197.137.197/loadbalance/telecineaction/chunks.m3u8?pxAuth=UUrpnl5p0HNTRQWu7juhoC3oXCdvYToI
+#EXTINF:0 tvg-logo="http://clarotvlojaonline.com.br/img/channels/20151112154239-canal-telecine-touch.png" group-title="CANAIS EM TESTE",Telecine Touch
+http://192.241.206.104/loadbalance/telecinetouch/chunks.m3u8?pxAuth=Gmqh1JxAoV2cWWm1ejcjvkNvK5tBODfH
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/canalspace.jpg" group-title="CANAIS EM TESTE",Space
+http://165.227.100.253/space/tracks-v1a1/index.m3u8?pxAuth=ggXI491ehVyElaeN8kgmEmMHxGR5mwLn
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="CANAIS EM TESTE",megapix
+http://138.197.141.134/loadbalance/megapixhd/chunks.m3u8?pxAuth=jZIEDB3JXkUeZSL8rbomu2H5M8wU6W6k
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo-paramountchannel.jpg" group-title="CANAIS EM TESTE",Paramount Channel
+http://138.197.133.123/loadbalance/paramount/chunks.m3u8?pxAuth=aOdeiOGp5rtINzeSOYmfyugL3LMKPqGN
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/34/Universalchannel.jpg/revision/latest/scale-to-width-down/310?cb=20161213212328&path-prefix=pt-br" group-title="CANAIS EM TESTE",Universal Channel
+http://138.197.137.150/loadbalance/universalch/chunks.m3u8?pxAuth=B4HSvRYqzFi8VhyjYUCQqNcgM2pmIZXc
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-pS0f0_-xW1g/VwF-vUphfTI/AAAAAAAABQk/9lDJoUqGsy8yakuZmbDtUqybp2n41Zjcw/s320/tcm-en-vivo.jpg" group-title="CANAIS EM TESTE",TCM
+http://159.203.26.32/loadbalance/tcm/chunks.m3u8?pxAuth=d2MrfLIDtMQQyJR56X5asGYAxyMSMXRT
+
 
 INFANTIL
 
@@ -129,6 +186,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="INFANTIL",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="CANAIS EM TESTE: infanto-juvenis",As Pistas de Blue | Pluto TV Brasil 
+#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="CANAIS EM TESTE: infanto-juvenis",As Pistas de Blue | link 2
+#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/2000px-Nickelodeon_logo_new.svg.png",Nickelodeon
+http://192.241.232.78/loadbalance/nickelodeon/chunks.m3u8?pxAuth=sJrWczqRnr2Pk7I4eTxinOyD3GAhQBte
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/all-about-everything/images/a/ac/NickJr.2009logo.png/revision/latest?cb=20161124210038" group-title="CANAIS EM TESTE",Nick Jr
+http://138.197.141.116/loadbalance/disney-junior/chunks.m3u8?pxAuth=Fi7GRUfrzZ7aIV6Xq6DnMm85CVluQD5v
+#EXTINF:-1,Nick Jr.
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/87.m3u8
+#EXTINF:-1,Nickelodeon
+http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/83.m3u8
+
 
 SÉRIES
 
@@ -142,3 +210,163 @@ https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
 #EXTINF:-1 tvg-id="DarkMatterTVBrazil.br" tvg-logo="https://i.imgur.com/H0jPZMA.png" group-title="SÉRIES",Dark Matter TV Brazil
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+
+STREAMING
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,FORCED=NO,URI="subtitle/en/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fc56336c-fe4c-4163-addd-c4879808d710&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true",LANGUAGE="en"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1539795,SUBTITLES="subs"
+1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fc56336c-fe4c-4163-addd-c4879808d710&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2142297,SUBTITLES="subs"
+2142297/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fc56336c-fe4c-4163-addd-c4879808d710&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3063648,SUBTITLES="subs"
+3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-fc56336c-fe4c-4163-addd-c4879808d710&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXT-X-STREAM-INF:BANDWIDTH=1289065,CODECS="avc1.100.40,mp4a.40.2",RESOLUTION=1920x1080
+chunklist_w427880869.m3u8?zugphi
+
+
+TESTES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE DESENHOS & SÉRIES 24HRS",Pica Pau
+http://165.227.82.198/Pica-Pau/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE Cine",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE TV FECHADA",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE TV FECHADA",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE Canais Filmes",Canais Filmes 24HRS
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE TV FECHADA",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE DESENHOS & SÉRIES 24HRS",Corrida Maluca
+http://165.227.82.198/Corrida-Maluca/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE DESENHOS & SÉRIES 24HRS",Scooby doo
+http://165.227.82.198/scooby-doo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE Filmes e Series",FOX
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1329.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE Infantil",NICK HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5093.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE cine",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/2474.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE cine",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/930.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE cine",TC FUN HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/932.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE cine",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/928.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TESTE DE Cine",NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://i.imgur.com/Fy0ZjVC.png" group-title="TESTE DE  | Documentarios", HGTV HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36924
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="TESTE DE | Documentarios", Discovery Turbo HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36982
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="TESTE DE | Documentarios", Discovery Home & Health
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36984
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="TESTE DE | Documentarios", Discovery Turbo
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37112
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="TESTE DE | Documentarios", Discovery Home & Health HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37115
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.imgur.com/Fy0ZjVC.png" group-title="TESTE DE | Documentarios", HGTV
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/63272
+#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="TESTE DE | Filmes e Series", Syfy HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36903
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="TESTE DE | Filmes e Series", Studio Universal HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36904
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="TESTE DE | Filmes e Series", Cinemax HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36926
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="TESTE DE | Filmes e Series", Warner Channel HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36930
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="TESTE DE | Filmes e Series", Universal TV HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36932
+#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="TESTE DE | Filmes e Series", Space HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36944
+#EXTINF:-1 tvg-id="Paramount Channel HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="TESTE DE | Filmes e Series", Paramount Channel HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36953
+#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="TESTE DE | Filmes e Series", Megapix HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36958
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="TESTE DE | Filmes e Series", FX HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36969
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="TESTE DE | Filmes e Series", Star Channel HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36972
+#EXTINF:-1 tvg-id="Sony Channel HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="TESTE DE | Filmes e Series", Sony Channel HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36987
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="TESTE DE | Filmes e Series", AXN HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36991
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="TESTE DE | Filmes e Series", Warner Channel
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36996
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="TESTE DE | Filmes e Series", Sony Channel
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37007
+#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="TESTE DE | Filmes e Series", Universal TV
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37027
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="TESTE DE | Filmes e Series", Syfy
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37042
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="TESTE DE | Filmes e Series", Studio Universal
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37043
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="TESTE DE | Filmes e Series", Space
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37046
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="TESTE DE | Filmes e Series", Prime Box Brazil
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37053
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="TESTE DE | Filmes e Series", Paramount Channel
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37062
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="TESTE DE | Filmes e Series", Megapix
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37072
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="TESTE DE | Filmes e Series", FX
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37097
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="TESTE DE | Filmes e Series", Star Channel
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37101
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="TESTE DE | Filmes e Series", Cinemax
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37120
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="TESTE DE | Filmes e Series", A&E
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37130
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="TESTE DE | Filmes e Series", AXN
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37132
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="TESTE DE | Filmes e Series", AMC
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/41087
+#EXTINF:-1 tvg-id="Film&Arts" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="TESTE DE | Filmes e Series", Film&Arts
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/41374
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="TESTE DE | Filmes e Series", Prime Box Brazil HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/68532
+#EXTINF:-1 tvg-id="Film&Arts HD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="TESTE DE | Filmes e Series", Film&Arts HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/68536
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="TESTE DE | Infantil", Nick
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37064
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="TESTE DE | Infantil", Nick Jr.
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37065
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="TESTE DE | Telecine", Telecine Premium HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36936
+#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="TESTE DE | Telecine", Telecine Pipoca HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36937
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="TESTE DE | Telecine", Telecine Action HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36939
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="TESTE DE | Telecine", Telecine Premium
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36994
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="TESTE DE | Telecine", Telecine Action
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37040
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="TESTE DE | Variedades", Lifetime HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36914
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="https://i.imgur.com/6OSVXqP.png" group-title="TESTE DE | Variedades", Cinecanal HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36918
+#EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="TESTE DE | Variedades", Food Network HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36919
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="TESTE DE | Variedades", Lifetime
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37077
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="TESTE DE | Variedades", Food Network
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37102
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" goup-title="TESTE DE",Nickelodeon
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" goup-title="TESTE DE",Nickelodeon HD
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108654
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CcI06qG_I_Q/VThI1rnCBbI/AAAAAAAAkSU/qkxic7M0E-Y/s1600/Nickelodeon-logo.png" group-title="CANAIS" pltv-subgroup="TESTE DE", NIKELODEON HD 01
+https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v2a1a2/mono.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FULLHD" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/06/Canal-Sony-estreia-2%C2%AA-temporada-de-Shark-Tank-Brasil-%E2%80%93-Negociando-com-Tubar%C3%B5es.jpg" group-title="TESTE DE",SONY FULLHD
+http://vipeiptv.com:25461/jessica1/jessica1/758099
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://m3u.win/images/canais/nick-jr.png" group-title="TESTE DE",Nick Jr
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="http://m3u.win/images/canais/nick-jr.png" group-title="TESTE DE",Nick Jr HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://m3u.win/images/canais/nickelodeon.png" group-title="TESTE DE",Nickelodeon
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="TESTE DE",Nickelodeon HD
+http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6402.m3u8

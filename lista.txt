@@ -186,17 +186,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="INFANTIL",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="CANAIS EM TESTE: infanto-juvenis",As Pistas de Blue | Pluto TV Brasil 
-#EXTINF:-1 tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://i.imgur.com/bHhxhRb.png" group-title="CANAIS EM TESTE: infanto-juvenis",As Pistas de Blue | link 2
-#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/2000px-Nickelodeon_logo_new.svg.png",Nickelodeon
-http://192.241.232.78/loadbalance/nickelodeon/chunks.m3u8?pxAuth=sJrWczqRnr2Pk7I4eTxinOyD3GAhQBte
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/all-about-everything/images/a/ac/NickJr.2009logo.png/revision/latest?cb=20161124210038" group-title="CANAIS EM TESTE",Nick Jr
 http://138.197.141.116/loadbalance/disney-junior/chunks.m3u8?pxAuth=Fi7GRUfrzZ7aIV6Xq6DnMm85CVluQD5v
 #EXTINF:-1,Nick Jr.
 http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/87.m3u8
-#EXTINF:-1,Nickelodeon
-http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/83.m3u8
-
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil", Discovery Kids HD
+http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36923
 
 SÉRIES
 
@@ -354,19 +349,7 @@ http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36919
 http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37077
 #EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="TESTE DE | Variedades", Food Network
 http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37102
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" goup-title="TESTE DE",Nickelodeon
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/110114
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Nickelodeon_schweiz_logo.png" goup-title="TESTE DE",Nickelodeon HD
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108654
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CcI06qG_I_Q/VThI1rnCBbI/AAAAAAAAkSU/qkxic7M0E-Y/s1600/Nickelodeon-logo.png" group-title="CANAIS" pltv-subgroup="TESTE DE", NIKELODEON HD 01
-https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v2a1a2/mono.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FULLHD" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/06/Canal-Sony-estreia-2%C2%AA-temporada-de-Shark-Tank-Brasil-%E2%80%93-Negociando-com-Tubar%C3%B5es.jpg" group-title="TESTE DE",SONY FULLHD
-http://vipeiptv.com:25461/jessica1/jessica1/758099
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://m3u.win/images/canais/nick-jr.png" group-title="TESTE DE",Nick Jr
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/73.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD" tvg-logo="http://m3u.win/images/canais/nick-jr.png" group-title="TESTE DE",Nick Jr HD
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://m3u.win/images/canais/nickelodeon.png" group-title="TESTE DE",Nickelodeon
-http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/72.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="TESTE DE",Nickelodeon HD
-http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6402.m3u8

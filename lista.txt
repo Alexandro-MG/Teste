@@ -283,3 +283,177 @@ http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36907
 #EXTINF:-1 tvg-id="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="INFANTIL", Nick Jr. HD
 http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36908
 
+RECENTES
+
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-6Q_s4tbCd7M/XryzwCYcJGI/AAAAAAAACyk/cMTBHT_RNWA2Um6gcRlrh2RSf9v0KxJAwCLcBGAsYHQ/s320/Screenshot_2020-05-13-23-48-42.png"group-title="TESTANDO CARTOON",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w318448940.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO CARTOON",JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1143774761.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO CARTOON",KIDS MAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="TESTANDO FILMES SÉRIES",TVJN
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="TESTANDO FILMES SÉRIES",NOVAPLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",BRASIL HITS
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1761855764.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="TESTANDO FILMES SÉRIES",JSID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",CHANNEL1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",GLN
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",IMPERIAL
+https://node2.ecast.site:3428/live/imperiallive.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="TESTANDO FILMES SÉRIES",VILA 
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="TESTANDO FILMES SÉRIES",TELA VIVA
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",ULB
+https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
+#EXTINF:0 tvg-logo="" group-title="TESTANDO FILMES SÉRIES",TV CLASSICOS
+https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="TESTANDO FILMES SÉRIES",CLASSIQUE WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w230143934.m3u8
+#EXTINF:-1 group-title="TESTANDO SERIES 24HRS",24H Chicago Med 1T
+http://clienteworld.com:80/claud123/claud123/113891
+#EXTINF:-1 group-title="TESTANDO SERIES 24HRS",24H Chicago Med 2T
+http://clienteworld.com:80/claud123/claud123/113892
+#EXTINF:-1 group-title="TESTANDO SERIES 24HRS",24H Chicago Med 3T
+http://clienteworld.com:80/claud123/claud123/113893
+#EXTINF:-1 group-title="TESTANDO SERIES 24HRS",24H Chicago Med 4T
+http://clienteworld.com:80/claud123/claud123/113894
+#EXTINF:-1 group-title="TESTANDO KIDS 24H" tvg-logo="http://uione.dadg.today:80/images/_PFPECAfduyBrBSxQu9ZP59OOzhj_JytZ3vVpln0qlRzSx5LGb6n1xAuv1nPbNlrk6QIq2zXZejtljSw4C4qgA.jpg",A CORUJA
+http://clienteworld.com:80/claud123/claud123/154908
+#EXTINF:-1 group-title="TESTANDO FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - FHD
+http://clienteworld.com:80/claud123/claud123/83514
+#EXTINF:-1 group-title="TESTANDO FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - HD
+http://clienteworld.com:80/claud123/claud123/83512
+#EXTINF:-1 group-title="TESTANDO FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - HD²
+http://clienteworld.com:80/claud123/claud123/83513
+#EXTINF:-1 group-title="TESTANDO FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - SD
+http://clienteworld.com:80/claud123/claud123/83510
+#EXTINF:-1 group-title="TESTANDO FILMES E SERIES" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png",A&E - SD²
+http://clienteworld.com:80/claud123/claud123/83511
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4deZkzPZX4rAMqxTBtGn2Ns.jpg",CARTOONITO - FHD
+http://clienteworld.com:80/claud123/claud123/28242
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4deZkzPZX4rAMqxTBtGn2Ns.jpg",CARTOONITO - HD
+http://clienteworld.com:80/claud123/claud123/83441
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4deZkzPZX4rAMqxTBtGn2Ns.jpg",CARTOONITO - SD
+http://clienteworld.com:80/claud123/claud123/83440
+#EXTINF:-1 group-title="TESTANDO CINE UNION" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png",CINE DISNEY
+http://clienteworld.com:80/claud123/claud123/138766190
+#EXTINF:-1 group-title="TESTANDO CINE UNION" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png",CINE MARVEL
+http://clienteworld.com:80/claud123/claud123/138766191
+#EXTINF:-1 group-title="TESTANDO CINE UNION" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png",CINE SKY 01
+http://clienteworld.com:80/claud123/claud123/155499
+#EXTINF:-1 group-title="TESTANDO CINE UNION" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png",CINE SKY 02
+http://clienteworld.com:80/claud123/claud123/155500
+#EXTINF:-1 group-title="TESTANDO CINE UNION" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png",Cine Trapalhões
+http://clienteworld.com:80/claud123/claud123/138766200
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALT - SD²
+http://clienteworld.com:80/claud123/claud123/82915
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALTH - FHD
+http://clienteworld.com:80/claud123/claud123/82917
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALTH - H265
+http://clienteworld.com:80/claud123/claud123/138777143
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALTH - HD
+http://clienteworld.com:80/claud123/claud123/82916
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALTH - SD
+http://clienteworld.com:80/claud123/claud123/82914
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4cQm2Kaz2Hl6EnyEPZU68v6wL3wgB9xFXiC8lSgr3nID.png",DISCOVERY KIDS - FHD
+http://clienteworld.com:80/claud123/claud123/83453
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4cQm2Kaz2Hl6EnyEPZU68v6wL3wgB9xFXiC8lSgr3nID.png",DISCOVERY KIDS - HD
+http://clienteworld.com:80/claud123/claud123/83451
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4cQm2Kaz2Hl6EnyEPZU68v6wL3wgB9xFXiC8lSgr3nID.png",DISCOVERY KIDS - HD²
+http://clienteworld.com:80/claud123/claud123/83452
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4cQm2Kaz2Hl6EnyEPZU68v6wL3wgB9xFXiC8lSgr3nID.png",DISCOVERY KIDS - SD
+http://clienteworld.com:80/claud123/claud123/83449
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4cQm2Kaz2Hl6EnyEPZU68v6wL3wgB9xFXiC8lSgr3nID.png",DISCOVERY KIDS - SD ²
+http://clienteworld.com:80/claud123/claud123/83450
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - 4K H265
+http://clienteworld.com:80/claud123/claud123/99903
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - FHD
+http://clienteworld.com:80/claud123/claud123/82924
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - FHD²
+http://clienteworld.com:80/claud123/claud123/82925
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - HD
+http://clienteworld.com:80/claud123/claud123/82922
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - HD²
+http://clienteworld.com:80/claud123/claud123/82923
+#EXTINF:-1 group-title="TESTANDO DOCUMENTÁRIOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VMrWjl_BCloWhCV2N0Lyug8uv9xfhCAbyx9TlhE0dPB.jpg",DISCOVERY TURBO - SD
+http://clienteworld.com:80/claud123/claud123/82921
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dp0CdXLc7DJRN1dkEw4Snc5h7DxbxSOP-ZJfFC5ckNV.jpg",NICK JR - FHD
+http://clienteworld.com:80/claud123/claud123/83477
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dp0CdXLc7DJRN1dkEw4Snc5h7DxbxSOP-ZJfFC5ckNV.jpg",NICK JR - FHD²
+http://clienteworld.com:80/claud123/claud123/12980
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dp0CdXLc7DJRN1dkEw4Snc5h7DxbxSOP-ZJfFC5ckNV.jpg",NICK JR - HD
+http://clienteworld.com:80/claud123/claud123/83475
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dp0CdXLc7DJRN1dkEw4Snc5h7DxbxSOP-ZJfFC5ckNV.jpg",NICK JR - HD²
+http://clienteworld.com:80/claud123/claud123/83476
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dp0CdXLc7DJRN1dkEw4Snc5h7DxbxSOP-ZJfFC5ckNV.jpg",NICK JR - SD
+http://clienteworld.com:80/claud123/claud123/83474
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Y2wd2tLLZW1XjkVNCrqkD4.jpg",NICKELODEON - FHD
+http://clienteworld.com:80/claud123/claud123/83480
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Y2wd2tLLZW1XjkVNCrqkD4.jpg",NICKELODEON - HD
+http://clienteworld.com:80/claud123/claud123/83479
+#EXTINF:-1 group-title="TESTANDO INFANTIL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Y2wd2tLLZW1XjkVNCrqkD4.jpg",NICKELODEON - SD
+http://clienteworld.com:80/claud123/claud123/83478
+#EXTINF:-1 group-title="TESTANDO,PT:Sic Kids
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2066
+#EXTINF:-1 group-title="TESTANDO,PT:Cartoon Network
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2104
+#EXTINF:-1 group-title="TESTANDO,PT:Nat Geo Wild
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2082
+#EXTINF:-1 group-title="TESTANDO,PT:Nickelodeon pt
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2081
+#EXTINF:-1 group-title="TESTANDO,PT:Discovery Channel
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2100
+#EXTINF:-1 group-title="TESTANDO,PT:Discovery Showcase
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2099
+#EXTINF:-1 group-title="TESTANDO,PT:Disney Junior
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2098
+#EXTINF:-1 group-title="TESTANDO,PT:Fox
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2092
+#EXTINF:-1 group-title="TESTANDO,PT:Fox Comedy
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2091
+#EXTINF:-1 group-title="TESTANDO,PT:Fox Life
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2089
+#EXTINF:-1 group-title="TESTANDO,PT:Fox Movies
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2088
+#EXTINF:-1 group-title="TESTANDO,PT:Jim Jam
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2086
+#EXTINF:-1 group-title="TESTANDO,PT:Motorviszion TV
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2085
+#EXTINF:-1 group-title="TESTANDO,PT:Disney Channel
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1809
+#EXTINF:-1 group-title="TESTANDO,PT:Baby TV
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2109
+#EXTINF:-1,PT:AMC
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2113
+#EXTINF:-1,PT:AXN
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2112
+#EXTINF:-1,PT:AXN Black
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2111
+#EXTINF:-1,PT:AXN White
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2110
+#EXTINF:-1 group-title="TESTANDO,PT:Nat geo
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2083
+#EXTINF:-1 group-title="TESTANDO,PT:Hollywood
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/2087
+#EXTINF:-1 group-title="TESTANDO,PT: TVI
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/1055.ts
+#EXTINF:-1 group-title="TESTANDO,PT: TVI 24
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/1054.ts
+#EXTINF:-1 group-title="TESTANDO,PT: TVI REALITY
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2050.ts
+#EXTINF:-1 group-title="TESTANDO,PT: TVI FICCAO
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2051.ts
+#EXTINF:-1 group-title="TESTANDO,PT: Nickelodeon
+http://5.189.187.55:8000/live/CLIENTW041/e09yJlVk46/2074.ts

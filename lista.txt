@@ -802,3 +802,151 @@ http://clienteworld.com:80/claud123/claud123/83603
 http://clienteworld.com:80/claud123/claud123/154313
 #EXTINF:-1 group-title="TESTANDO LEGENDADOS" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg",Warner Channel - FHD [LEG]
 http://clienteworld.com:80/claud123/claud123/13867904
+
+OUTRA LISTA
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="OUTRA LISTA FILMES/SERIES",AMC
+http://painel.iptvmove.com:25461/live/danga07/1963/2326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="OUTRA LISTA FILMES/SERIES",AMC HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2264.m3u8
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="OUTRA LISTA VARIEDADES",Arte 1
+http://painel.iptvmove.com:25461/live/danga07/1963/1351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="OUTRA LISTA FILMES/SERIES",AXN
+http://painel.iptvmove.com:25461/live/danga07/1963/1350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="OUTRA LISTA FILMES/SERIES",AXN HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="OUTRA LISTA CANAIS INFANTIL",Baby TV
+http://painel.iptvmove.com:25461/live/danga07/1963/1333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1000px-Bloomberg_logo.svg.png" group-title="OUTRA LISTA CANAIS NOTICIAS",Bloomberg HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="OUTRA LISTA CANAIS INFANTIL",Boomerang
+http://painel.iptvmove.com:25461/live/danga07/1963/1344.m3u8
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="OUTRA LISTA FILMES/SERIES",Canal Sony
+http://painel.iptvmove.com:25461/live/danga07/1963/1341.m3u8
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="OUTRA LISTA FILMES/SERIES",Canal Sony HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1414.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="OUTRA LISTA FILMES/SERIES",Cinemax
+http://painel.iptvmove.com:25461/live/danga07/1963/1338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="OUTRA LISTA FILMES/SERIES",Cinemax HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2256.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1334.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD [Alter]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Channel HD [Alter]
+http://painel.iptvmove.com:25461/live/danga07/1963/2747.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery H&H
+http://painel.iptvmove.com:25461/live/danga07/1963/1332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Home & Health HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="" group-title="OUTRA LISTA VARIEDADES",Discovery Civilization HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="OUTRA LISTA VARIEDADES",Discovery Science HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="OUTRA LISTA CANAIS INFANTIL",Discovery Kids
+http://painel.iptvmove.com:25461/live/danga07/1963/1331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="OUTRA LISTA CANAIS INFANTIL",Discovery Kids HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Theater HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1410.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Turbo
+http://painel.iptvmove.com:25461/live/danga07/1963/1329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery Turbo HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="OUTRA LISTA DOCUMENTARIOS",Discovery World HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="OUTRA LISTA CANAIS INFANTIL",Disney Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="OUTRA LISTA CANAIS INFANTIL",Disney Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/60JkJAz.png" group-title="OUTRA LISTA CANAIS INFANTIL",Disney Junior
+http://painel.iptvmove.com:25461/live/danga07/1963/1327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="OUTRA LISTA CANAIS INFANTIL",Disney XD
+http://painel.iptvmove.com:25461/live/danga07/1963/1326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment Television" tvg-logo="http://i.imgur.com/VVMxDJG.png" group-title="OUTRA LISTA VARIEDADES",E! Entertainment Television
+http://painel.iptvmove.com:25461/live/danga07/1963/1325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="http://i.imgur.com/j6NjcTh.png" group-title="OUTRA LISTA VARIEDADES",Food Network
+http://painel.iptvmove.com:25461/live/danga07/1963/1319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="OUTRA LISTA FILMES/SERIES",FOX
+http://painel.iptvmove.com:25461/live/danga07/1963/1318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="OUTRA LISTA FILMES/SERIES",FOX HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://i.imgur.com/5s5gHix.png" group-title="OUTRA LISTA VARIEDADES",Fox Life
+http://painel.iptvmove.com:25461/live/danga07/1963/1317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/8H9T3EO.png" group-title="OUTRA LISTA FILMES/SERIES",FOX Premium 1 HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/fj9a71u.png" group-title="OUTRA LISTA FILMES/SERIES",FOX Premium 2 HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="" group-title="OUTRA LISTA VARIEDADES",Food Network HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="OUTRA LISTA FILMES/SERIES",FX
+http://painel.iptvmove.com:25461/live/danga07/1963/1313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="OUTRA LISTA FILMES/SERIES",FX HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="OUTRA LISTA FILMES/SERIES",MegaPix
+http://painel.iptvmove.com:25461/live/danga07/1963/1292.m3u8
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="OUTRA LISTA FILMES/SERIES",Megapix HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaTV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/megatv.png" group-title="OUTRA LISTA VARIEDADES",MegaTV
+http://painel.iptvmove.com:25461/live/danga07/1963/1213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="" group-title="OUTRA LISTA CANAIS INFANTIL",NatGeo Kids HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="OUTRA LISTA VARIEDADES",NatGeo Wild
+http://painel.iptvmove.com:25461/live/danga07/1963/1288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="http://i.imgur.com/QouD1hh.png" group-title="OUTRA LISTA DOCUMENTARIOS",NatGeoWild HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://i.imgur.com/UgmPkZ0.png" group-title="OUTRA LISTA VARIEDADES",National Geographic
+http://painel.iptvmove.com:25461/live/danga07/1963/1287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="http://i.imgur.com/UgmPkZ0.png" group-title="OUTRA LISTA DOCUMENTARIOS",National Geography HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://i.imgur.com/ltcGPOI.png" group-title="OUTRA LISTA VARIEDADES",NHK
+http://painel.iptvmove.com:25461/live/danga07/1963/1285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="OUTRA LISTA CANAIS INFANTIL",Nick Jr
+http://painel.iptvmove.com:25461/live/danga07/1963/1284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="OUTRA LISTA CANAIS INFANTIL",Nickelodeon
+http://painel.iptvmove.com:25461/live/danga07/1963/1283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="OUTRA LISTA CANAIS INFANTIL",Nickelodeon HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="OUTRA LISTA FILMES/SERIES",Paramount
+http://painel.iptvmove.com:25461/live/danga07/1963/1280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="OUTRA LISTA FILMES/SERIES",Paramount HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="http://i.imgur.com/0Kp413X.png" group-title="OUTRA LISTA VARIEDADES",Play TV
+http://painel.iptvmove.com:25461/live/danga07/1963/1279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="OUTRA LISTA FILMES/SERIES",Space HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1370.m3u8
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="OUTRA LISTA FILMES/SERIES",Space
+http://painel.iptvmove.com:25461/live/danga07/1963/1255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="OUTRA LISTA FILMES/SERIES",Studio Universal
+http://painel.iptvmove.com:25461/live/danga07/1963/1251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="OUTRA LISTA FILMES/SERIES",Syfy
+http://painel.iptvmove.com:25461/live/danga07/1963/1250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" tvg-logo="" group-title="OUTRA LISTA FILMES/SERIES",Syfy HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3487.m3u8
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Action
+http://painel.iptvmove.com:25461/live/danga07/1963/1247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Action HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1365.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Cult
+http://painel.iptvmove.com:25461/live/danga07/1963/1246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cult HD" tvg-logo="" group-title="OUTRA LISTA VARIEDADES",TV Cult HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Fun
+http://painel.iptvmove.com:25461/live/danga07/1963/1245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Fun HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Pipoca
+http://painel.iptvmove.com:25461/live/danga07/1963/1244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Pipoca HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Premium
+http://painel.iptvmove.com:25461/live/danga07/1963/1243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Premium HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Touch
+http://painel.iptvmove.com:25461/live/danga07/1963/1242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="OUTRA LISTA FILMES/SERIES",Telecine Touch HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="OUTRA LISTA CANAIS INFANTIL",Tooncast
+http://painel.iptvmove.com:25461/live/danga07/1963/1236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="http://i.imgur.com/U4VgGuN.png" group-title="OUTRA LISTA VARIEDADES",TruTV
+http://painel.iptvmove.com:25461/live/danga07/1963/1235.m3u8

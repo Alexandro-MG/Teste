@@ -349,3 +349,12 @@ http://5.79.68.138:8081/look/discoverykids/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="NOVO TESTE",Disney Junior
 #EXTINF:-1 tvg-id="Disney Channel HD [Brazil]" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="NOVO TESTE",Disney Channel
 #EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="NOVO TESTE",Discovery Home Health
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Healthhttp://svrjupiter.live/B4MDSK9P/NKTPNEJW/1893?tkn=1633474026
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health HDhttp://svrjupiter.live/B4MDSK9P/NKTPNEJW/1972?tkn=1633474026
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD *" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health HD *http://svrjupiter.live/B4MDSK9P/NKTPNEJW/198?tkn=1633474026
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health H265" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health H265http://svrjupiter.live/B4MDSK9P/NKTPNEJW/10301?tkn=1633474026
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="" group-title="TESTE 2",Discovery Kids FHDhttp://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5317
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids "SD"" tvg-logo="" group-title="TESTE 2",Discovery Kids "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5377
+#EXTINF:-1 tvg-id="" tvg-name="Disney "SD"" tvg-logo="" group-title="TESTE 2",Disney "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5373
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr "SD"" tvg-logo="" group-title="TESTE 2",Disney Jr "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5372
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior "SD"" tvg-logo="" group-title="TESTE 2",Disney Junior "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5376

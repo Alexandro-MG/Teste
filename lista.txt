@@ -299,3 +299,23 @@ https://node2.ecast.site:3428/live/imperiallive.m3u8
 #EXTINF:0 tvg-logo="" group-title="NOVO TESTE",TV CLASSICOS
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 #EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-logo="http://s20.postimg.org/s3jq0ib3h/Boomerang.png" group-title="NOVO TESTE",Boomerang
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD **" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="NOVO TESTE",DISCOVERY HOME & HEALTH HD **
+http://185.181.100.218:8081/live/106/chunks.m3u8?nimblesessionid=3997830&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE3IDE6MjA6NTEgQU0maGFzaF92YWx1ZT1hQnY4OUVyMmtFYUZ3MVdhV215L0hnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1,NICKELODEON
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b69I2Gx.png" group-title="NOVO TESTE", Discovery H&H
+http://str03.ddns.net/078/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/zE4LH74mgZ/6W8MfBRgoLqtTTCm.png" group-title="NOVO TESTE", NICKELODEON
+http://tv.redecanais.com:1935/redecanaisnick/myStream/playlist.m3u8
+#EXTINF:-1,Baby TV
+http://edge564.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+#EXTINF:-1,SIC K
+http://178.193.237.115:9000/play/a08h
+#EXTINF:-1,Canal Panda
+http://62.167.50.245:8000/play/a05v
+#EXTINF:-1,JimJam
+http://178.193.237.115:9000/play/a08i
+#EXTINF:-1,Disney Channel
+http://edge564.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+#EXTINF:-1,DISCOVERY H&H FHD
+http://man.syscdn.ml:8080/3317586993/3516882055/107915

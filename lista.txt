@@ -288,12 +288,6 @@ http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36908
 
 RECENTES
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" goup-title="NOVO TESTE",Discovery H&H
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108431
-#EXTINF:-1 tvg-logo="https://logospng.org/wp-content/uploads/discovery-kids.png" goup-title="NOVO TESTE",Discovery Kids
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108679
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" goup-title="NOVO TESTE",Viva
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108324
 #EXTINF:0 tvg-logo="" group-title="NOVO TESTE",KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
 #EXTINF:0 tvg-logo="" group-title="NOVO TESTE",GEEKDOT
@@ -305,56 +299,3 @@ https://node2.ecast.site:3428/live/imperiallive.m3u8
 #EXTINF:0 tvg-logo="" group-title="NOVO TESTE",TV CLASSICOS
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 #EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-logo="http://s20.postimg.org/s3jq0ib3h/Boomerang.png" group-title="NOVO TESTE",Boomerang
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/248.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="NOVO TESTE",DISCOVERY KIDS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/240.m3u8
-#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="NOVO TESTE",DISNEY CHANNEL SD
-http://31.204.128.117:8081/live/disney/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-name="Disney Junior" tvg-logo="https://s31.postimg.org/ntzixxfjf/disney_junior.png" group-title="NOVO TESTE",DISNEY JUNIOR
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/236.m3u8
-#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-name="Disney XD" tvg-logo="http://s28.postimg.org/wglxtxbeh/disneyxd.png" group-title="NOVO TESTE",DISNEY XD
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/235.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-name="Nickelodeon" tvg-logo="http://s18.postimg.org/f9sbnd0c5/nick.png" group-title="NOVO TESTE",NICKELODEON
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/205.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-name="Nick Jr." tvg-logo="http://s31.postimg.org/6051scm2j/nick_jr.png" group-title="NOVO TESTE",NICK JR.
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/206.m3u8
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="Gloob" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="NOVO TESTE",GLOOB
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/221.m3u8
-#EXTINF:-1 tvg-id="Tooncast [Brazil]" tvg-name="Tooncast" tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2014/05/tooncast_left_logo1.jpg" group-title="NOVO TESTE",TOONCAST
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/157.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="NOVO TESTE",Discovery Channel
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/243.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="NOVO TESTE",GNT
-http://163.172.60.49/loadbalance/canal-gnt-hd/chunks.m3u8?nimblesessionid=1186939&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDE2IDk6MzM6NTcgUE0maGFzaF92YWx1ZT1CZGtqVmpkRkNsOWZlcHhsbnJ4NWtBPT0mdmFsaWRtaW51dGVzPTE=
-#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-name="Discovery" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="NOVO TESTE",DISCOVERY
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/243.m3u8
-#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-name="Discovery Home & Health" tvg-logo="//s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="NOVO TESTE",DISCOVERY HOME & HEALTH
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/241.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOVO TESTE",NICK HD
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5093.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOVO TESTE",DISNEY JR
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1068.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOVO TESTE",DISCOVERY KIDS HD
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/5081.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="NOVO TESTE",DISCOVERY KIDS
-http://lista.digitalgroup.me:80/live/paulo7563/paulo7563/1080.m3u8
-#EXTINF:-1 tvg-id="Baby TV [Brazil]" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="NOVO TESTE",Baby TV
-#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="NOVO TESTE",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="NOVO TESTE",Nick Jr.
-#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="NOVO TESTE",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="NOVO TESTE",Discovery Kids
-http://5.79.68.138:8081/look/discoverykids/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="NOVO TESTE",Disney Junior
-#EXTINF:-1 tvg-id="Disney Channel HD [Brazil]" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="NOVO TESTE",Disney Channel
-#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-logo="http://s20.postimg.org/y4mbdoryh/Discovery_Home_Health.png" group-title="NOVO TESTE",Discovery Home Health
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Healthhttp://svrjupiter.live/B4MDSK9P/NKTPNEJW/1893?tkn=1633474026
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health HDhttp://svrjupiter.live/B4MDSK9P/NKTPNEJW/1972?tkn=1633474026
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD *" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health HD *http://svrjupiter.live/B4MDSK9P/NKTPNEJW/198?tkn=1633474026
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health H265" tvg-logo="https://imgur.com/3WH2XWM.png" group-title="TESTE 2",Discovery Home & Health H265http://svrjupiter.live/B4MDSK9P/NKTPNEJW/10301?tkn=1633474026
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="" group-title="TESTE 2",Discovery Kids FHDhttp://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5317
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids "SD"" tvg-logo="" group-title="TESTE 2",Discovery Kids "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5377
-#EXTINF:-1 tvg-id="" tvg-name="Disney "SD"" tvg-logo="" group-title="TESTE 2",Disney "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5373
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr "SD"" tvg-logo="" group-title="TESTE 2",Disney Jr "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5372
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior "SD"" tvg-logo="" group-title="TESTE 2",Disney Junior "SD"http://144.217.254.99:25461/u6pmjz5q/RL6ejNLyRa/5376

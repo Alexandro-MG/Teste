@@ -300,3 +300,25 @@ https://node2.ecast.site:3428/live/imperiallive.m3u8
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
 #EXTINF:-1 group-title="NOVO TESTE" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png",Discovery H&H HD+
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16706
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",NICK HD
+http://198.255.23.18:2095/streams/135_.m3u8
+#EXTINF:-1 DISCOVERY H&H FHD,https://list.iptvcat.com/my_list/s/adbfb6fea7d2197d35cc4396215ce743.m3u8
+#extm3u:-8,  tvg-id="" tvg-logo="" https://t.ly/3Nwsb group-title="" Telecine Premium AO VIVO
+https://server101.online/tc-premium/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=ee118515078555045235d61f8c723db94b9ed368-02012e2fea2e47343d26993a3f689ae7-1685806250-1685802650
+#extm3u:-9,  tvg-id="" tvg-logo="" https://t.ly/SeCSd group-title="" Megapix
+https://server101.online/megapix/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=884b24651a5f7521302b4df0cd54ed0fa10150cb-37398a584635e801922abd4d20ee5ae1-1685806339-1685802739
+#extm3u:-10, tvg-id="" tvg-logo="" https://t.ly/pb7P group-title="" TNT SPORTS 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#extm3u:-11,  tvg-id="" tvg-logo="" https://t.ly/bgwBgroup-title="" Warner Channel
+https://server101.online/warner/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=c7d6fdc3fbe62425bca9974592439119dc35266b-918bdec190b6d04f79f4132828ef5ab7-1685806507-1685802907
+#extm3u:-12,  tvg-id="" tvg-logo="" https://t.ly/BzQjX group-title="" Cartoon Network
+https://server101.online/cartoon/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=92df6554771f766e81179ac0845c53fdbcad38e3-447bf3fb0681a6272901d4aeb450da3f-1685806602-1685803002
+#extm3u:-13,  tvg-id="" tvg-logo="" https://t.ly/E33d group-title="" HBO 
+https://server101.online/hbo/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=6d79113cec9adb4116cadf03454ae5b142b63226-163407c1b1ec600246805f575a02e0ad-1685806762-1685803162
+#extm3u:-15, tvg-id="" tvg-logo="" https://t.ly/DsaD group-title="" National Geographic
+https://m3u9.ml/a2/hls1/natgeo/__index.m3u8?mu3zAQc9HC3GbwJq=i-vlmPTJdpeILOi60g0mSw&3U1G7qaTxrPbalZnEx=1685832848
+#extm3u:-16, tvg-id="" tvg-logo="" https://t.ly/5A9x group-title="" Disney Channel
+https://server101.online/disney/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=c0e058788163f7572f3d0df48dc9192bf9580e8d-b4d4c2bf653e29cb0071bb7958e5c321-1685807558-1685803958
+#extm3u:-19,  tvg-id="" tvg-logo="" https://t.ly/4ptL group-title="" CINE LIVRE 2 
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w121975515.m3u8
+

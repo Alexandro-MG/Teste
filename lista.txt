@@ -311,3 +311,7 @@ http://clienteworld.com:80/claud123/claud123/138777143
 http://clienteworld.com:80/claud123/claud123/82916
 #EXTINF:-1 group-title="NOVO TESTE" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fRebPFmuBL-_LxUUVFQ7v9BRmCl7X0GCAaWokslSql6.png",DISCOVERY HOME & HEALTH - SD
 http://clienteworld.com:80/claud123/claud123/82914
+#EXTINF:-1 group-title="TESTE 2 DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31107
+#EXTINF:-1 group-title="TESTE 2 DOCUMENTARIOS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108

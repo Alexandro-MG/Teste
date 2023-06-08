@@ -69,25 +69,14 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/iV1Ib7L.png" group-title="ABERTOS",SBT Para
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
 
-NOVELAS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS", CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS", CANELA TELENOVELAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
 FILMES
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" group-title="FILMES", CINE ROMÁNTICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="FILMES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="FILMES", KURIAKOS CINE
-http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/pur9IVR.png" group-title="FILMES", TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8?zugphi
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/logo.png" group-title="FILMES", CANELA.TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 tvg-id="FilmesSuspenseBrazil.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="FILMES",Filmes Suspense Brazil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="GhostTV.br" tvg-logo="https://i.imgur.com/ZVO8GVI.png" group-title="FILMES",Ghost TV
@@ -123,8 +112,6 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 INFANTIL
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/img/canela-kids-white.png" group-title="INFANTIL", CANELA KIDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="INFANTIL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="INFANTIL", Kuriakos Kids
@@ -145,8 +132,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="INFANTIL",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/all-about-everything/images/a/ac/NickJr.2009logo.png/revision/latest?cb=20161124210038" group-title="INFANTIL",Nick Jr
-http://138.197.141.116/loadbalance/disney-junior/chunks.m3u8?pxAuth=Fi7GRUfrzZ7aIV6Xq6DnMm85CVluQD5v
+
 
 
 SÉRIES
@@ -159,131 +145,7 @@ https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?zugphi
 https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?zugphi
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="SÉRIES", CHIPS
 https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?zugphi
-#EXTINF:-1 tvg-id="DarkMatterTVBrazil.br" tvg-logo="https://i.imgur.com/H0jPZMA.png" group-title="SÉRIES",Dark Matter TV Brazil
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 
-FECHADOS
-
-#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://i.imgur.com/Fy0ZjVC.png" group-title="ENTRETERIMENTO", HGTV HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36924
-#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="ENTRETERIMENTO", Discovery Turbo HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36982
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="ENTRETERIMENTO", Discovery Home & Health
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36984
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="ENTRETERIMENTO", Discovery Turbo
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37112
-#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="ENTRETERIMENTO", Discovery Home & Health HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37115
-#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.imgur.com/Fy0ZjVC.png" group-title="ENTRETERIMENTO", HGTV
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/63272
-#EXTINF:-1 tvg-id="Syfy HD" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="FILMES E SÉRIES", Syfy HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36903
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="FILMES E SÉRIES", Studio Universal HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36904
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES E SÉRIES", Cinemax HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36926
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="FILMES E SÉRIES", Warner Channel HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36930
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="FILMES E SÉRIES", Universal TV HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36932
-#EXTINF:-1 tvg-id="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="FILMES E SÉRIES", Space HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36944
-#EXTINF:-1 tvg-id="Paramount Channel HD" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="FILMES E SÉRIES", Paramount Channel HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36953
-#EXTINF:-1 tvg-id="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="FILMES E SÉRIES", Megapix HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36958
-#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="FILMES E SÉRIES", FX HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36969
-#EXTINF:-1 tvg-id="Fox Channel HD" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="FILMES E SÉRIES", Star Channel HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36972
-#EXTINF:-1 tvg-id="Sony Channel HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="FILMES E SÉRIES", Sony Channel HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36987
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="FILMES E SÉRIES", AXN HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36991
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="FILMES E SÉRIES", Warner Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36996
-#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="FILMES E SÉRIES", Sony Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37007
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="http://i.imgur.com/Aag8ICV.png" group-title="FILMES E SÉRIES", Universal TV
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37027
-#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://i.imgur.com/2lKk7Jw.png" group-title="FILMES E SÉRIES", Syfy
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37042
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="FILMES E SÉRIES", Studio Universal
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37043
-#EXTINF:-1 tvg-id="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="FILMES E SÉRIES", Space
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37046
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="FILMES E SÉRIES", Prime Box Brazil
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37053
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="FILMES E SÉRIES", Paramount Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37062
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="FILMES E SÉRIES", Megapix
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37072
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="FILMES E SÉRIES", FX
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37097
-#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="https://i.imgur.com/2crLuRM.png" group-title="FILMES E SÉRIES", Star Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37101
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="FILMES E SÉRIES", Cinemax
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37120
-#EXTINF:-1 tvg-id="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="FILMES E SÉRIES", A&E
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37130
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="FILMES E SÉRIES", AXN
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37132
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg" group-title="FILMES E SÉRIES", AMC
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/41087
-#EXTINF:-1 tvg-id="Film&Arts" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="FILMES E SÉRIES", Film&Arts
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/41374
-#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="http://i.imgur.com/tjEoZDA.png" group-title="FILMES E SÉRIES", Prime Box Brazil HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/68532
-#EXTINF:-1 tvg-id="Film&Arts HD" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg" group-title="FILMES E SÉRIES", Film&Arts HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/68536
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="INFANTIL", Nick
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37064
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="INFANTIL", Nick Jr.
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37065
-#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="FILMES E SÉRIES", Telecine Premium HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36936
-#EXTINF:-1 tvg-id="Telecine Pipoca  HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES", Telecine Pipoca HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36937
- 	
-
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES", Telecine Action HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36939
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="FILMES E SÉRIES", Telecine Premium
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36994
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="FILMES E SÉRIES", Telecine Action
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37040
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="FILMES E SÉRIES", Lifetime HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36914
-#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="https://i.imgur.com/6OSVXqP.png" group-title="FILMES E SÉRIES", Cinecanal HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36918
-#EXTINF:-1 tvg-id="Food Network HD" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="ENTRETERIMENTO", Food Network HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36919
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="FILMES E SÉRIES", Lifetime
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37077
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://i.imgur.com/bcdE7nj.png" group-title="ENTRETERIMENTO", Food Network
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37102
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="INFANTIL", Discovery Kids HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36923
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="INFANTIL", Disney Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/37111
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="INFANTIL", Disney Channel HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36921
-#EXTINF:-1 tvg-id="PlayKids HD" tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="INFANTIL", PlayKids HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/41359
-#EXTINF:-1 tvg-id="BabyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL", BabyTV HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/63634
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="INFANTIL", Disney Channel
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/64786
-#EXTINF:-1 tvg-id="Urban Kids HD" tvg-logo="https://i.imgur.com/5FmSlAU.png" group-title="INFANTIL", Urban Kids HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/86528
-#EXTINF:-1 tvg-id="Box Kids" tvg-logo="https://i.imgur.com/6UTigX5.png" group-title="INFANTIL", Box Kids
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/91579
-#EXTINF:-1 tvg-id="Dora Aventureira 24H" tvg-logo="https://i.imgur.com/K4qvjd1.png" group-title="INFANTIL", Dora Aventureira 24H
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/91786
-#EXTINF:-1 tvg-id="Nick HD" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="INFANTIL", Nick HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36907
-#EXTINF:-1 tvg-id="Nick Jr. HD" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="INFANTIL", Nick Jr. HD
-http://tv.factoryiptv.com:80/Antonioclaudiocabofrio2/974613911/36908
 
 CANAIS 24 HORAS
 
@@ -293,7 +155,7 @@ http://clienteworld.com:80/claud123/claud123/320162
 http://clienteworld.com:80/claud123/claud123/109191
 #EXTINF:-1 group-title="SERIES 24HRS",24H A Historia de Deus 2T
 http://clienteworld.com:80/claud123/claud123/109192
-#EXTINF:-1 group-title="KIDS 24H" tvg-logo="https://revistareacao.com.br/wp-content/uploads/2021/04/3-Palavrinhas.jpg",3 Palavrinhas
+#EXTINF:-1 group-title="DESENHOS 24H" tvg-logo="https://revistareacao.com.br/wp-content/uploads/2021/04/3-Palavrinhas.jpg",3 Palavrinhas
 http://clienteworld.com:80/claud123/claud123/1385054
 #EXTINF:-1 group-title="SERIES 24HRS" tvg-logo="http://u1o.xyz/zfooL",3 POR -CENTO  1 A 2 TEMP 24Hs
 http://clienteworld.com:80/claud123/claud123/53170
@@ -301,9 +163,9 @@ http://clienteworld.com:80/claud123/claud123/53170
 http://clienteworld.com:80/claud123/claud123/153853
 #EXTINF:-1 group-title="DESENHOS 24 HRS" tvg-logo="data:image/jpeg;base64,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",A CEGONHA DA PERNA FINA
 http://clienteworld.com:80/claud123/claud123/153854
-#EXTINF:-1 group-title="KIDS 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLQ_eynuBMXfMb4vvC1GYHzu9UJ3fMBc2rg&usqp=CAU",A CORUJA
+#EXTINF:-1 group-title="DESENHOS 24H" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLQ_eynuBMXfMb4vvC1GYHzu9UJ3fMBc2rg&usqp=CAU",A CORUJA
 http://clienteworld.com:80/claud123/claud123/154908
-#EXTINF:-1 group-title="KIDS 24H" tvg-logo="https://yt3.ggpht.com/G-A-BWeZ6ksPLx2dbP6nHdCV1AP9VCZts2_jEUCjH4znyUQqzTIFD-fufy-WwLEiPdxnRI6z=s900-c-k-c0x00ffffff-no-rj",A Galinha Pintadinha  24H
+#EXTINF:-1 group-title="DESENHOS 24H" tvg-logo="https://yt3.ggpht.com/G-A-BWeZ6ksPLx2dbP6nHdCV1AP9VCZts2_jEUCjH4znyUQqzTIFD-fufy-WwLEiPdxnRI6z=s900-c-k-c0x00ffffff-no-rj",A Galinha Pintadinha  24H
 http://clienteworld.com:80/claud123/claud123/50546
 #EXTINF:-1 group-title="PROGRAMAS DE TV 24 HRS" tvg-logo="http://u1o.xyz/SQl3p",A GRANDE FAMÍLIA  1 TEMP 24Hs
 http://clienteworld.com:80/claud123/claud123/52329
@@ -468,37 +330,57 @@ http://clienteworld.com:80/claud123/claud123/1386096
 
 RECENTES
 
-#EXTINF:0 tvg-logo="" group-title="NOVO TESTE",KIDS MAIS
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1201831481.m3u8
-#EXTINF:0 tvg-logo="" group-title="NOVO TESTE",GEEKDOT
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",GEEKDOT
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:0 tvg-logo="" group-title="NOVO TESTE",CHANNEL1
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",CHANNEL1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
-#EXTINF:0 tvg-logo="" group-title="NOVO TESTE",IMPERIAL
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",IMPERIAL
 https://node2.ecast.site:3428/live/imperiallive.m3u8
-#EXTINF:0 tvg-logo="" group-title="NOVO TESTE",TV CLASSICOS
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",TV CLASSICOS
 https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
-#EXTINF:-1 group-title="NOVO TESTE" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png",Discovery H&H HD+
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16706
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",NICK HD
-http://198.255.23.18:2095/streams/135_.m3u8
-#EXTINF:-1 DISCOVERY H&H FHD,https://list.iptvcat.com/my_list/s/adbfb6fea7d2197d35cc4396215ce743.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" https://t.ly/3Nwsb group-title="" Telecine Premium AO VIVO
-https://server101.online/tc-premium/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=ee118515078555045235d61f8c723db94b9ed368-02012e2fea2e47343d26993a3f689ae7-1685806250-1685802650
-#EXTINF:-1 tvg-id="" tvg-logo="" https://t.ly/SeCSd group-title="" Megapix
-https://server101.online/megapix/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=884b24651a5f7521302b4df0cd54ed0fa10150cb-37398a584635e801922abd4d20ee5ae1-1685806339-1685802739
-#EXTINF:-1, tvg-id="" tvg-logo="" https://t.ly/pb7P group-title="" TNT SPORTS 8
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1,  tvg-id="" tvg-logo="" https://t.ly/bgwBgroup-title="" Warner Channel
-https://server101.online/warner/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=c7d6fdc3fbe62425bca9974592439119dc35266b-918bdec190b6d04f79f4132828ef5ab7-1685806507-1685802907
-#EXTINF:-1,  tvg-id="" tvg-logo="" https://t.ly/BzQjX group-title="" Cartoon Network
-https://server101.online/cartoon/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=92df6554771f766e81179ac0845c53fdbcad38e3-447bf3fb0681a6272901d4aeb450da3f-1685806602-1685803002
-#EXTINF:-1,  tvg-id="" tvg-logo="" https://t.ly/E33d group-title="" HBO 
-https://server101.online/hbo/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=6d79113cec9adb4116cadf03454ae5b142b63226-163407c1b1ec600246805f575a02e0ad-1685806762-1685803162
-#EXTINF:-1, tvg-id="" tvg-logo="" https://t.ly/DsaD group-title="" National Geographic
-https://m3u9.ml/a2/hls1/natgeo/__index.m3u8?mu3zAQc9HC3GbwJq=i-vlmPTJdpeILOi60g0mSw&3U1G7qaTxrPbalZnEx=1685832848
-#EXTINF:-1, tvg-id="" tvg-logo="" https://t.ly/5A9x group-title="" Disney Channel
-https://server101.online/disney/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=c0e058788163f7572f3d0df48dc9192bf9580e8d-b4d4c2bf653e29cb0071bb7958e5c321-1685807558-1685803958
-#EXTINF:-1,  tvg-id="" tvg-logo="" https://t.ly/4ptL group-title="" CINE LIVRE 2 
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w121975515.m3u8
+
+LISTA ANTIGA
+
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H 4K
+http://trenduhd.xyz:80/2799903294/3640187040/286633
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H FHD
+http://trenduhd.xyz:80/2799903294/3640187040/188654
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD H265" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/188653
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H HD
+http://trenduhd.xyz:80/2799903294/3640187040/188655
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD [ALT]" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295652
+#EXTINF: -1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H SD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="PREMIUM", DISCOVERY H&H SD
+http://trenduhd.xyz:80/2799903294/3640187040/188657
+#EXTINF: -1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="PREMIUM", HGTV FHD
+http://trenduhd.xyz:80/2799903294/3640187040/189086
+#EXTINF: -1 tvg-id="hgtv.br" tvg-name="HGTV FHD H265" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="PREMIUM", HGTV FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/189085
+#EXTINF: -1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="PREMIUM", HGTV HD
+http://trenduhd.xyz:80/2799903294/3640187040/189087
+#EXTINF: -1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="PREMIUM", HGTV SD
+http://trenduhd.xyz:80/2799903294/3640187040/189089
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR FHD
+http://trenduhd.xyz:80/2799903294/3640187040/189018
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/189017
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR HD
+http://trenduhd.xyz:80/2799903294/3640187040/189019
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR HD [ALT]" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295672
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKJR.png" group-title="PREMIUM", NICK JR SD
+http://trenduhd.xyz:80/2799903294/3640187040/189021
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON FHD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON FHD
+http://trenduhd.xyz:80/2799903294/3640187040/189024
+#EXTINF: -1 tvg-id="nick.br" tvg-name="NICKELODEON FHD H265" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON FHD H265
+http://trenduhd.xyz:80/2799903294/3640187040/189023
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON HD
+http://trenduhd.xyz:80/2799903294/3640187040/189025
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON HD [ALT]" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON HD [ALT]
+http://trenduhd.xyz:80/2799903294/3640187040/295673
+#EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON SD
+http://trenduhd.xyz:80/2799903294/3640187040/189027
 

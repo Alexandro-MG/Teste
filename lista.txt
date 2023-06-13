@@ -384,3 +384,165 @@ http://trenduhd.xyz:80/2799903294/3640187040/295673
 #EXTINF: -1 tvg-id="nick.jr.br" tvg-name="NICKELODEON SD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/NICKE.png" group-title="PREMIUM", NICKELODEON SD
 http://trenduhd.xyz:80/2799903294/3640187040/189027
 
+OUTRA LISTA
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d7d1a4b47e3583e7c715cafee8cbd02.png" group-title="NOVA LISTA",TVJN
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1lRRmfoFjqw/YJLdfKPVFjI/AAAAAAAAEos/RKs26haVlcU4N1pH8JUyadk71S7IECBVgCLcBGAsYHQ/s0/TV%2BNOVA%2BPLAY%2B2.png" group-title="NOVA LISTA",NOVAPLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1212094222.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",TV CEI
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist_w481281988.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CHANNEL1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w285237757.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",GLN
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w2030558459.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-2Vvd-kuG9_0/XQwsOjJQHuI/AAAAAAAABJo/vh8VDKW1KVEwtVMRRkxX--RQj-USBoEnwCLcBGAs/s320/Screenshot_2019-06-20-21-12-40.png" group-title="NOVA LISTA",JSID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w1351534938.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",IMPERIAL
+https://node2.ecast.site:3428/live/imperiallive.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b6989c697a1327a22d41bf4ff435320b.jpg" group-title="NOVA LISTA",VILA 
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-ELV1e2LJlYU/YCaxFOrmHvI/AAAAAAAAERE/sBOPPVuvQIw0dobCP2RoBxux_0f-iiRRgCLcBGAsYHQ/s0/TELA%2BVIVA%2BTV.png" group-title="NOVA LISTA",TELA VIVA
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944972315.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-0Bb7qlBYScY/X6Aug7qQzGI/AAAAAAAADrs/b6QSHfY8TZoj0UJ5tegjhVAoaabLtkBWQCLcBGAsYHQ/s0/TV%2BENCAUCA.png" group-title="NOVA LISTA",ENCAUCA
+https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist_w55789487.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png"group-title="NOVA LISTA", PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",ALIANÇA
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w402441908.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CLASSICOS CINE
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",TV CLASSICOS
+https://a.cdni.live/tvclassicos/tvclassicos/chunklist_w959820175.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="NOVA LISTA",CLASSIQUE 
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png"group-title="NOVA LISTA",CLASSIQUE WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w230143934.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CLASSIQUE SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w776821197.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CANAL29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-lKMka-gm-Tw/X5tuToPtoLI/AAAAAAAADow/kULmTt_ZgZ8Z-ypKXVxJKDGs2msf4TNdgCPcBGAYYCw/s0/VINTAGE%2BTV.png" group-title="NOVA LISTA",VINTAGE
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CLOUDING
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",XTREME
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",XPLUS
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w944568546.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",ULB
+https://video01.kshost.com.br/alan4876/alan4876/chunklist_w386830378.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",TV100
+https://serv3.videovox.pw/video78531/video78531/chunklist_w1184741389.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",TELEWEB
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist_w567459976.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",TV LAGOA
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist_w2011427906.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",SONATA
+https://video01.kshost.com.br/tiago2001/tiago2001/chunklist_w583024808.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",VARGEM
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w191368855.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",KTV BRASIL
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w219124577.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",RUNTIME COMEDIA1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",RUNTIME COMEDIA2
+https://stream.ads.ottera.tv/cl/230613ci3ru0b4di6vnk9nlpcg/1280x720_3071200_0_f.m3u8?i=475_2553
+#EXTINF:0 tvg-logo="http://www.tvaguaboa.com.br/banners/04092019115122.jpg" group-title="NOVA LISTA", AGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1116467602.m3u8
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-Dz8hWPkHzyU/XWAeyKtSHxI/AAAAAAAABjQ/GQCk1qkykk8I3dfqTtUOSNGTgI9cji-vwCLcBGAs/s320/Screenshot_2019-08-23-14-11-58.png" group-title="NOVA LISTA",ISTV 
+https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1658903474.m3u8
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/80609e7626a827d28c6c277ed8252b0e.png" group-title="NOVA LISTA",CENTRALTV 
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w772275062.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="NOVA LISTA",MAISBR 
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w1153276660.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-SYIWbHG-aSM/XrRRU-iRKmI/AAAAAAAACuE/tQg0pyXxD_oCo342xc8PRomOmVEmCV2NACLcBGAsYHQ/s320/Screenshot_2020-05-07-15-10-19.png" group-title="NOVA LISTA",UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1138149130.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-4YhZ8LozzVI/X5C1dZCh6vI/AAAAAAAADe4/Z_ylY4Wq-181AqnY-WRRgv6eCfM59S0vgCLcBGAsYHQ/s0/ENTORNO%2BSUL%2BWEB%2BTV.png" group-title="NOVA LISTA",ENTORNOSUL
+https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-jGLoFHYizBU/XvP9YTPEZuI/AAAAAAAADDA/3zgVhWsfXv4v5pIKW5O0-1-NdMEYv9kZQCLcBGAsYHQ/s320/2020-06-24%2B22.12.15.png" group-title="NOVA LISTA",TVSUL 
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",JAPI
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1107678837.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",OSÓRIO
+https://serv2.videovox.pw/video13154/video13154/chunklist_w1919008961.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CTV
+https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w19140926.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",SANTA
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",CONFIEGO	
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1245963257.m3u8
+#EXTINF:0 tvg-logo="" group-title="NOVA LISTA",FRONTEIRA
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/s320/Screenshot_2019-06-18-16-51-47.png"group-title="NOVA LISTA",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w295677575.m3u8
+#EXTINF:-1 tvg-id="A&E [Brazil]" tvg-name="A&E" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="NOVA LISTA",A&E
+http://painel.iptvmove.com:25461/live/danga07/1963/1354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL Sports HD" tvg-logo="https://i0.wp.com/www.simpletvbrasil.tv/cliente/logo/4366c67d4d4be3381abe034e7c15b80e.png" group-title="NOVA LISTA",ALL Sports HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="NOVA LISTA",AMC
+http://painel.iptvmove.com:25461/live/danga07/1963/2326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://i.imgur.com/JYislkb.png" group-title="NOVA LISTA",AMC HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="NOVA LISTA",AXN
+http://painel.iptvmove.com:25461/live/danga07/1963/1350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="NOVA LISTA",AXN HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="NOVA LISTA",Baby TV
+http://painel.iptvmove.com:25461/live/danga07/1963/1333.m3u8
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="NOVA LISTA",Canal Sony
+http://painel.iptvmove.com:25461/live/danga07/1963/1341.m3u8
+#EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="NOVA LISTA",Canal Sony HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1414.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="NOVA LISTA",Cinemax
+http://painel.iptvmove.com:25461/live/danga07/1963/1338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="NOVA LISTA",Cinemax HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2256.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="NOVA LISTA",Discovery Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1334.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="NOVA LISTA",Discovery Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD [Alter]" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="NOVA LISTA",Discovery Channel HD [Alter]
+http://painel.iptvmove.com:25461/live/danga07/1963/2747.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD" tvg-name="Discovery H&H" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="NOVA LISTA",Discovery H&H
+http://painel.iptvmove.com:25461/live/danga07/1963/1332.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="NOVA LISTA",Discovery Home & Health HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization HD" tvg-logo="" group-title="NOVA LISTA",Discovery Civilization HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="NOVA LISTA",Discovery Kids
+http://painel.iptvmove.com:25461/live/danga07/1963/1331.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="NOVA LISTA",Discovery Kids HD
+http://painel.iptvmove.com:25461/live/danga07/1963/2348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/VZH1x36.png" group-title="NOVA LISTA",Discovery Theater HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1410.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="NOVA LISTA",Discovery Turbo
+http://painel.iptvmove.com:25461/live/danga07/1963/1329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="NOVA LISTA",Discovery Turbo HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/4JC0BcV.png" group-title="NOVA LISTA",Discovery World HD
+http://painel.iptvmove.com:25461/live/danga07/1963/1408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="NOVA LISTA",Disney Channel
+http://painel.iptvmove.com:25461/live/danga07/1963/1328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="NOVA LISTA",Disney Channel HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/60JkJAz.png" group-title="NOVA LISTA",Disney Junior
+http://painel.iptvmove.com:25461/live/danga07/1963/1327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="NOVA LISTA",Disney XD
+http://painel.iptvmove.com:25461/live/danga07/1963/1326.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="NOVA LISTA",Nick Jr
+http://painel.iptvmove.com:25461/live/danga07/1963/1284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="NOVA LISTA",Nickelodeon
+http://painel.iptvmove.com:25461/live/danga07/1963/1283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="NOVA LISTA",Nickelodeon HD
+http://painel.iptvmove.com:25461/live/danga07/1963/3488.m3u8
+
+
